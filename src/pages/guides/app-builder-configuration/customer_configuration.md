@@ -1,10 +1,10 @@
-# App Builder app Custom Configuration
+# Customer Configuration
 
-Developers of distributable App Builder apps can define configuration options for users to set at deploy time.
+Developers of distributable App Builder apps can define configuration options for customers to set at deploy time.
 
-## Defining custom configuration options
+## Defining customer configuration options
 
-Custom configuration can be defined via the `configSchema` property.
+Customer configuration can be defined via the `configSchema` property.
 
 **app.config.yaml**
 
@@ -25,11 +25,11 @@ configSchema: # This is a top-level property and is global to the app and all ex
 
 ## Usage
 
-The `envKey` property of a custom configuration option maps to the environment variable name in the app.
+The `envKey` property of a customer configuration option maps to the environment variable name in the app.
 
 ### Runtime action
 
-To use custom configuration in a Runtime action, map the `envKey` value for the desired variable to the inputs of the Runtime action, then access values via `params.<envKey>` in the action code.
+To use customer configuration in a Runtime action, map the `envKey` value for the desired variable to the inputs of the Runtime action, then access values via `params.<envKey>` in the action code.
 
 #### Example
 
@@ -78,7 +78,7 @@ exports.main = main
 
 ### Web application
 
-To use custom configuration in the web application, values can be accessed directly via `process.env.<envKey>`.
+To use customer configuration in the web application, values can be accessed directly via `process.env.<envKey>`.
 
 #### Example
 
@@ -107,7 +107,7 @@ application:
 <View backgroundColor={process.env.FRONTEND_BACKGROUND_COLOR}></View>
 ```
 
-## Custom Configuration Types
+## Customer Configuration Types
 
 ### Text field
 
@@ -200,3 +200,4 @@ configSchema:
       description: 'Please provide the webhook used by this application. Configure in slack.com'
       envKey: 'SLACK_WEBHOOK'
       default: 'https://slack.com/webhook'
+```

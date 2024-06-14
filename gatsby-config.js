@@ -60,8 +60,18 @@ module.exports = {
             title: "Discover and Manage",
           },
           {
-            title: "Custom Configurations",
-            path: "guides/custom_configurations.md",
+            title: "App Builder Configuration",
+            path: "guides/app-builder-configuration/overview.md",
+            pages: [
+              {
+                path: "guides/app-builder-configuration/customer_configuration.md",
+                title: "Customer Configuration",
+              },
+              {
+                path: "guides/app-builder-configuration/required_products.md",
+                title: "Required Products",
+              },             
+            ],
           },
         ],
       },
