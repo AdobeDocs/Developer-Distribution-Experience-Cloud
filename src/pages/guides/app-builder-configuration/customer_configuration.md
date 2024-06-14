@@ -111,7 +111,7 @@ application:
 
 ### Text field
 
-![Screenshot of text field](../images/cc-textfield.png)
+![Screenshot of text field](../../images/cc-textfield.png)
 
 ```yaml
 configSchema:
@@ -127,7 +127,7 @@ configSchema:
 
 ### Checkbox
 
-![Screenshot of checkbox](../images/cc-checkbox.png)
+![Screenshot of checkbox](../../images/cc-checkbox.png)
 
 ```yaml
 configSchema:
@@ -142,7 +142,7 @@ configSchema:
 
 ### Dropdown
 
-![Screenshot of dropdown](../images/cc-dropdown.png)
+![Screenshot of dropdown](../../images/cc-dropdown.png)
 
 ```yaml
 configSchema:
@@ -176,7 +176,7 @@ configSchema:
 
 ### Multiple configuration options
 
-![Screenshot of Multiple Configuration](../images/cc-mult-config.png)
+![Screenshot of Multiple Configuration](../../images/cc-mult-config.png)
 
 ```yaml
 configSchema:
