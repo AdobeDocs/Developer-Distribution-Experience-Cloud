@@ -23,6 +23,9 @@ description: This is the getting started page
 
 The following screenshots explain the creation and submission of an App Builder listing and version for Adobe review.
 
+Looking for help building your App Builder app? See the [App Builder Public Distribution](./app-builder/docs/guides/distribution/public) page for more details. 
+
+
 ![sample image alt text](../../images/Your_Listings_card_view.png)
 
 ## Creating a Listing
