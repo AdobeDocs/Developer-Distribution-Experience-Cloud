@@ -59,10 +59,6 @@ module.exports = {
             path: "guides/discoverandmanage.md",
             title: "Discover and Manage",
           },
-          {
-            title: "Custom Configurations",
-            path: "guides/custom_configurations.md",
-          },
         ],
       },
     ],

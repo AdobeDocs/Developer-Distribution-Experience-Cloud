@@ -29,8 +29,6 @@ If you have questions about how to use Adobe Developer Distribution or you are l
 
 Access a knowledge base of frequently asked questions and find answers to some of the most common questions asked by other Developer Distribution users. This is a great place to start when needing answers to a question.
 
-Visit the [Adobe Developer Distribution FAQ](../guides/custom_configurations.md) to learn more.
-
 ## Developer Forums
 
 To start a discussion, ask questions or report something you're seeing, please visit our [Creative Cloud Developer Forums](https://forums.creativeclouddeveloper.com/c/plugin-marketplace/66). On the forums you will find official Adobe developers and knowledgeable community members who are ready and available to help you find the information you need.
