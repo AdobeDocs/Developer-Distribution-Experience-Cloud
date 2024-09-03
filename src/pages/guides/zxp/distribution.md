@@ -62,7 +62,7 @@ Yes, the App Manager link in the Technology Partner Portal has been replaced wit
 
 ### Where can I get more information or help?
 
-Contact [TPP Support](https://adobeexchangeec.zendesk.com/hc/en-us/requests/new).
+Contact [TPP Support](https://partners.adobe.com/ec/cform/case).
 
 ## App Builder app Answers
 
@@ -88,4 +88,4 @@ Yes, after you login or join the TPP program, you will be able to create an App 
 
 Learn how to build an App Builder app [App Builder documentation](https://developer.adobe.com/app-builder/docs/getting_started/).
 
-Contact [TPP Support](https://adobeexchangeec.zendesk.com/hc/en-us/requests/new).
+Contact [TPP Support](https://partners.adobe.com/ec/cform/case).
