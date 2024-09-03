@@ -62,7 +62,7 @@ Yes, the App Manager link in the Technology Partner Portal has been replaced wit
 
 ### Where can I get more information or help?
 
-Contact [TPP Support](https://adobeexchangeec.zendesk.com/hc/en-us/requests/new).
+Contact [TPP Support](https://partners.adobe.com/ec/cform/case).
 
 ## App Builder app Answers
 
