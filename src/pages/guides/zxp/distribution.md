@@ -56,7 +56,7 @@ Yes, the App Manager link in the Technology Partner Portal has been replaced wit
 
 1.	Login or join the [Technology Partner Program (TPP)](https://partners.adobe.com/technologyprogram/experiencecloud.html). You will have to join the TPP as a Silver Member or above for your published listing to be displayed publicly. At the free level, only an unlisted detail page URL is available to share with potential customers. Public listings for Experience Platform Launch are available at the free level. Upon TPP registration approval, a organization (org) will be assigned to your Adobe login credentials.
 
-2.	After your registration has been approved, submit a request for an Adobe product Sandbox for any required API using the [TPP sandbox request ticket](https://adobeexchangeec.zendesk.com/hc/en-us/requests/new?ticket_form_id=20885197390989). You will need a sandbox for building your software integration in Developer Console.
+2.	After your registration has been approved, submit a request for an Adobe product Sandbox for any required API using the [TPP sandbox request ticket](https://partners.adobe.com/technologyprogram/experiencecloud/knowledgebase/db56212793bf8214fbe77b847aba1091.html). You will need a sandbox for building your software integration in Developer Console.
 
 3.	Create a new listing for your software integration in [Developer Distribution](https://developer.adobe.com/developer-distribution). You will have the option to associate the listing with an existing Console project or go to Developer Console later and add an API to a project created for your new listing.
 
@@ -74,7 +74,7 @@ Adobe Developer App Builder provides a unified third-party extensibility framewo
 
 1. Login or join the [Technology Partner Program (TPP)](https://partners.adobe.com/technologyprogram/experiencecloud.html). You will have to join the TPP as a Silver Member or above for your published listing to be displayed publicly. As a Community (free) Member, only an unlisted detail page URL will be available to share with potential customers. Upon TPP registration approval, an organization (org) will be assigned to your Adobe login credentials (Personal Account).
 
-2. After your registration has been approved, submit a request for an App Builder Sandbox using the [TPP sandbox request ticket](https://adobeexchangeec.zendesk.com/hc/en-us/requests/new?ticket_form_id=20885197390989).
+2. After your registration has been approved, submit a request for an App Builder Sandbox using the [TPP sandbox request ticket](https://partners.adobe.com/technologyprogram/experiencecloud/knowledgebase/db56212793bf8214fbe77b847aba1091.html).
 
 3. Once you receive confirmation of your App Builder sandbox, go to [Developer Console](https://developer.adobe.com/developer-console/), add  App Builder to a project, and create your App Builder app.​
 
