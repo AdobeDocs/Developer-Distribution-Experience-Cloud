@@ -14,7 +14,7 @@ title: FAQ - Frequently Asked Questions
 description: This is the FAQ page
 ---
 
-<Hero slots="heading, text" background="rgb(141, 52, 78)"/>
+<HeroSimple slots="heading, text" background="rgb(141, 52, 78)"/>
 
 # What's New: Experience Cloud Support in Developer Distribution
 
