@@ -30,7 +30,7 @@ module.exports = {
         title: "Developer Distribution",
         pages: [          
           {
-            path: "guides/getting_started.md",
+            path: "guides/getting-started.md",
             title: "Getting Started",
           },          
           {          
@@ -42,17 +42,17 @@ module.exports = {
             path: "guides/submission/overview.md",
             pages: [
               {
-                path: "guides/submission/app_builder_submission.md",
+                path: "guides/submission/app_builder-submission.md",
                 title: "App Builder apps",
               },
               {
-                path: "guides/submission/service_to_service.md",
+                path: "guides/submission/service-to-service.md",
                 title: "Software Integrations",
               },             
             ],
           },
           {
-            path: "guides/branding_guidelines.md",
+            path: "guides/branding-guidelines.md",
             title: "Adobe Branding Guidelines",
           },
           {

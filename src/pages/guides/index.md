@@ -52,7 +52,7 @@ Upon registration in the Technology Partner Portal (TPP) partners receive an org
 
 ## Next Steps
 
-[Getting started](./getting_started.md)
+[Getting started](./getting-started.md)
 
 Get to know the key concepts around the developer distribution portal.
 
