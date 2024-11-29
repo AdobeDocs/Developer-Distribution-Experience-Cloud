@@ -62,4 +62,3 @@ Get to know the key concepts around the developer distribution portal.
 
 Learn about the submission process once you are ready to publish.
 
-<br/><br/><br/><br/>
