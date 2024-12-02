@@ -42,7 +42,7 @@ module.exports = {
             path: "guides/submission/overview.md",
             pages: [
               {
-                path: "guides/submission/app_builder-submission.md",
+                path: "guides/submission/app-builder-submission.md",
                 title: "App Builder apps",
               },
               {
