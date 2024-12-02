@@ -35,7 +35,7 @@ To start a discussion, ask questions or report something you're seeing, please v
 
 ## Bugs and Feature Requests
 
-Log an issue on <https://github.com/AdobeDocs/developer-distribute/issues> to report any bugs or request new product features.
+Log an issue on [https://github.com/AdobeDocs/developer-distribute/issues](https://github.com/AdobeDocs/developer-distribute/issues) to report any bugs or request new product features.
 
 ## Formal Support Requests
 
