@@ -46,8 +46,6 @@ Software integrations are third party integrations that extend one or more Exper
 
 Upon registration in the Technology Partner Portal (TPP) partners receive an org that gets associated with their login credentials.  After being approved into the TPP, developers should have no problems logging into Developer Distribution or Developer Console with the org name appearing in the upper right “org picker”. TPP members who get an error should contact [TPP Support](https://partners.adobe.com/ec/cform/case).
 
-<div style="margin-top: 1em">&nbsp;</div>
-
 <DiscoverBlock slots="heading, link, text"/>
 
 ## Next Steps
