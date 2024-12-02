@@ -1,6 +1,6 @@
 # How to Submit
 
-**NEEDS TO BE UPDATED**
+_**NEEDS TO BE UPDATED**_
 
 You can submit your plugin for review and approval from the Adobe Developer Distribution app.
 
