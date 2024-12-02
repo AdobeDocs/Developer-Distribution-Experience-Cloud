@@ -21,7 +21,7 @@ description: This is the getting started page
 
 # Getting Started
 
-This getting started guide highlights the pages to view and manage existing listings in the Adobe Developer Distribution Portal. Logged in [Technology Partner Program (TPP)](https://partners.adobe.com/technologyprogram/experiencecloud.html) members can manage Software integration and App Builder **listings** in [Developer Distribution](/distribute) to be published on [Adobe Exchange](https://exchange.adobe.com/apps/browse/ec)
+This getting started guide highlights the pages to view and manage existing listings in the Adobe Developer Distribution Portal. Logged in [Technology Partner Program (TPP)](https://partners.adobe.com/technologyprogram/experiencecloud.html) members can manage Software integration and App Builder **listings** in [Developer Distribution](https://developer.adobe.com/distribute/) to be published on [Adobe Exchange](https://exchange.adobe.com/apps/browse/ec)
 
 <InlineAlert slots="text" variant="help"/>
 
@@ -29,7 +29,7 @@ A **listing** is what customers can browse on Adobe Exchange. It is comprised of
 
 ## Overview
 
-The following section will provide a brief overview of each view in the [Adobe Developer Distribution portal](/distribute/home) to help developers get started using it quickly. This applies to both App Builder and software integration applications.
+The following section will provide a brief overview of each view in the [Adobe Developer Distribution portal](https://developer.adobe.com/distribute/home) to help developers get started using it quickly. This applies to both App Builder and software integration applications.
 
 ## Home
 

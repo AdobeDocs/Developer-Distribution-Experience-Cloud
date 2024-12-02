@@ -34,7 +34,7 @@ A self-service submission portal for developers to publish listings that extend 
 
 ## Overview
 
-[Adobe Developer Distribution](/) is a new surface for developers to submit and manage their listings. The Developer Distribution surface offers a powerful and flexible approach to allow developers to create listings more rapidly and receive approval with minimal Adobe reviewer turnaround time. This document focuses on listing submission for Experience Cloud App Builder applications and software integrations although Creative Cloud plugin listings can also be created and managed in Developer Distribution.
+[Adobe Developer Distribution](https://developer.adobe.com/distribute/home) is a new surface for developers to submit and manage their listings. The Developer Distribution surface offers a powerful and flexible approach to allow developers to create listings more rapidly and receive approval with minimal Adobe reviewer turnaround time. This document focuses on listing submission for Experience Cloud App Builder applications and software integrations although Creative Cloud plugin listings can also be created and managed in Developer Distribution.
 
 ## App Builder applications versus software integrations
 

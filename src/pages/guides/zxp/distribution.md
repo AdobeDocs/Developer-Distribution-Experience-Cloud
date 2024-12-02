@@ -20,7 +20,7 @@ description: This is the FAQ page
 
 App Manager has been merged into Developer Distribution.
 
-Logged in [Technology Partner Program (TPP)](https://partners.adobe.com/technologyprogram/experiencecloud.html) members can submit Software integrations and App Builder apps in [Developer Distribution](/distribute). Developer Distribution is a unified portal to self-submit & manage Experience Cloud Software integration and App Builder listings to be published on [Adobe Exchange](https://exchange.adobe.com/apps/browse/ec)
+Logged in [Technology Partner Program (TPP)](https://partners.adobe.com/technologyprogram/experiencecloud.html) members can submit Software integrations and App Builder apps in [Developer Distribution](https://developer.adobe.com/distribute/). Developer Distribution is a unified portal to self-submit & manage Experience Cloud Software integration and App Builder listings to be published on [Adobe Exchange](https://exchange.adobe.com/apps/browse/ec)
 
 <br/>
 
@@ -28,19 +28,37 @@ Logged in [Technology Partner Program (TPP)](https://partners.adobe.com/technolo
 
 <br/>
 
-- [What is a software integration?](#what-is-a-software-integration)
-- [Can I use Developer Distribution to create and manage software integrations?](#can-i-use-developer-distribution-to-create-and-manage-software-integrations)
-- [What are the steps to create a software integration listing for public distribution?](#what-are-the-steps-to-create-a-software-integration-listing-for-public-distribution)
-- [Where can I get more information or help?](#where-can-i-get-more-information-or-help)
+- [What's New: Experience Cloud Support in Developer Distribution](#whats-new-experience-cloud-support-in-developer-distribution)
+  - [Software integrations](#software-integrations)
+  - [App Builder apps](#app-builder-apps)
+  - [Software integration Answers](#software-integration-answers)
+    - [What is a software integration?](#what-is-a-software-integration)
+    - [Can I use Developer Distribution to create and manage software integrations?](#can-i-use-developer-distribution-to-create-and-manage-software-integrations)
+    - [What are the steps to create a software integration listing for public distribution?](#what-are-the-steps-to-create-a-software-integration-listing-for-public-distribution)
+    - [Where can I get more information or help?](#where-can-i-get-more-information-or-help)
+  - [App Builder app Answers](#app-builder-app-answers)
+    - [What is an App Builder app?](#what-is-an-app-builder-app)
+    - [What are the steps to create an App Builder listing for public distribution?](#what-are-the-steps-to-create-an-app-builder-listing-for-public-distribution)
+    - [If I previously created a private App Builder App via the App Builder Trial Sign up, can I distribute it publicly?](#if-i-previously-created-a-private-app-builder-app-via-the-app-builder-trial-sign-up-can-i-distribute-it-publicly)
+    - [Where can I get more information or help?](#where-can-i-get-more-information-or-help-1)
 
 ## App Builder apps
 
 <br/>
 
-- [What is an App Builder app?](#what-is-an-app-builder-app)
-- [What are the steps to create an App Builder listing for public distribution?](#what-are-the-steps-to-create-an-app-builder-listing-for-public-distribution)
-- [If I previously created a private App Builder App via the App Builder Trial Sign up, can I distribute it publicly?](#if-i-previously-created-a-private-app-builder-app-via-the-app-builder-trial-sign-up-can-i-distribute-it-publicly)
-- [Where can I get more information or help?](#where-can-i-get-more-information-or-help)
+- [What's New: Experience Cloud Support in Developer Distribution](#whats-new-experience-cloud-support-in-developer-distribution)
+  - [Software integrations](#software-integrations)
+  - [App Builder apps](#app-builder-apps)
+  - [Software integration Answers](#software-integration-answers)
+    - [What is a software integration?](#what-is-a-software-integration)
+    - [Can I use Developer Distribution to create and manage software integrations?](#can-i-use-developer-distribution-to-create-and-manage-software-integrations)
+    - [What are the steps to create a software integration listing for public distribution?](#what-are-the-steps-to-create-a-software-integration-listing-for-public-distribution)
+    - [Where can I get more information or help?](#where-can-i-get-more-information-or-help)
+  - [App Builder app Answers](#app-builder-app-answers)
+    - [What is an App Builder app?](#what-is-an-app-builder-app)
+    - [What are the steps to create an App Builder listing for public distribution?](#what-are-the-steps-to-create-an-app-builder-listing-for-public-distribution)
+    - [If I previously created a private App Builder App via the App Builder Trial Sign up, can I distribute it publicly?](#if-i-previously-created-a-private-app-builder-app-via-the-app-builder-trial-sign-up-can-i-distribute-it-publicly)
+    - [Where can I get more information or help?](#where-can-i-get-more-information-or-help-1)
 
 ## Software integration Answers
 
