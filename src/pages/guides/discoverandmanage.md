@@ -39,6 +39,18 @@ Clicking on the name of an app listing will take the marketplace user to that ap
 
 ![Screenshot of Exchange](../images/Acquire_and_Manage_2.jpg)
 
+<InlineAlert variant="warning" slots="header, text1, text2, text3, text4" />
+
+Listing visbility for EU users
+
+If you are not complaint per the [European Union Digital Services Act](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32022R2065) trader requirements, the users in the EU will not be able to see your listings in the Adobe Exchange.
+
+If an EU user has already has a deep link to your listing, and you are not compliant with the [European Union Digital Services Act](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32022R2065) trader requirements, they will not be able to install the listing. However, if they have already installed it, they will still be able to use it. In both cases, they will see a banner with the following message:
+
+*This listing is not currently available in the EU. This developer has not submitted the trader information required by the EU Digital Services Act.*
+
+[Add trader details now.](https://developer.adobe.com/distribute/accountProfile)
+
 ## Acquire
 
 If, after viewing the application details, the user decides to acquire the app, they can click the ‘Free’ button on the top right. A modal will appear to confirm that the user’s organization has the required Adobe products.
