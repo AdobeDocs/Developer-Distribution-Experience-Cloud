@@ -43,7 +43,7 @@ Clicking on the name of an app listing will take the marketplace user to that ap
 
 Listing visbility for EU users
 
-If you are not complaint per the [European Union Digital Services Act](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32022R2065) trader requirements, the users in the EU will not be able to see your listings in the Adobe Exchange.
+If you are not compliant per the [European Union Digital Services Act](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32022R2065) trader requirements, the users in the EU will not be able to see your listings in the Adobe Exchange.
 
 If an EU user has already has a deep link to your listing, and you are not compliant with the [European Union Digital Services Act](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32022R2065) trader requirements, they will not be able to install the listing. However, if they have already installed it, they will still be able to use it. In both cases, they will see a banner with the following message:
 
