@@ -2,7 +2,7 @@
     - /developer-distribution/experience-cloud/docs/
 
 - pages:
-    - [Developer Distribution](/developer-distribution/)
+    - [Developer Distribution](https://developer.adobe.com/developer-distribution/)
     - Documentation
         - [Creative Cloud](https://developer.adobe.com/developer-distribution/creative-cloud/docs/guides/)
         - [Experience Cloud](guides/index.md)
