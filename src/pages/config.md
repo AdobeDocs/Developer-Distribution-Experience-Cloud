@@ -3,8 +3,9 @@
 
 - pages:
     - [Developer Distribution](/developer-distribution/)
-    - [Documentation](guides/index.md)
-
+    - Documentation
+        - [Creative Cloud](https://developer.adobe.com/developer-distribution/creative-cloud/docs/guides/)
+        - [Experience Cloud](guides/index.md)
 - subPages:
     - [Developer Distribution](guides/index.md) 
         - [Getting Started](guides/getting-started.md) 
