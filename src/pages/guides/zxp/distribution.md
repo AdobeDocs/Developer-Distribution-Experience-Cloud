@@ -20,7 +20,6 @@ description: This is the FAQ page
 
 <!-- (Commented) App Manager has been merged into Developer Distribution. -->
 
-
 Logged in [Technology Partner Program (TPP)](https://partners.adobe.com/technologyprogram/experiencecloud.html) members can submit Server-to-server integrations, catalog listings and App Builder apps for Adobe’s Experience Cloud products in [Developer Distribution](/distribute). Developer Distribution is a unified portal to self-submit & manage Experience Cloud listings to be published on [Adobe Exchange](https://exchange.adobe.com/apps/browse/ec). 
 
 <br/>
@@ -61,7 +60,6 @@ Logged in [Technology Partner Program (TPP)](https://partners.adobe.com/techno
 
 ## Server-to-server integrations Answers
 
- 
 ### What is a server-to-server integration? 
 
 A server-to-server integration are API based integrations between two or more servers which essentially exchange data, protected by security mechanisms like Oauth authentication. The data exchange happens completely between the servers, so these information exchanges aren’t visible to individual users.  
