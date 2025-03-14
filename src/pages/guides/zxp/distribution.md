@@ -24,7 +24,7 @@ Logged in [Technology Partner Program (TPP)](https://partners.adobe.com/technolo
 
 <br/>
 
-## Software integrations 
+## Catalog listings
 
 <br/>
 
