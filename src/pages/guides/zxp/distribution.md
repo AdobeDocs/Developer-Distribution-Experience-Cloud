@@ -59,7 +59,7 @@ Logged in [Technology Partner Program (TPP)](https://partners.adobe.com/techno
 
 <br/>
 
- ## Server-to-server integrations Answers
+## Server-to-server integrations Answers
 
  
 ### What is a server-to-server integration? 
@@ -90,7 +90,6 @@ All the server-to-server integrations created before March 2025 are listed as ca
 ### Where can I get more information or help? 
 
 Contact [TPP Support](https://partners.adobe.com/ec/cform/case) 
-
 
 ## Catalog listing Answers 
 
