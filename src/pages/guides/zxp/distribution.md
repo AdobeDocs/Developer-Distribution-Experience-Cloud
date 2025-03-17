@@ -16,7 +16,7 @@ description: This is the FAQ page
 
 <Hero slots="heading, text" background="rgb(141, 52, 78)"/>
 
-# What's New: Introducing a new credential for partners to build and distribution software integrations.
+# What's New: Introducing a new credential for partners to build and distribute software integrations.
 
 <!-- (Commented) App Manager has been merged into Developer Distribution. -->
 
