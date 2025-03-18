@@ -78,7 +78,7 @@ In March 2025, Adobe introduced a new enterprise credential that will enable dev
 ### What are the steps to create a server-to-server integration listing for public distribution?
 
 1. Login or join the [Technology Partner Program (TPP)](https://partners.adobe.com/technologyprogram/experiencecloud.html). TPP Silver Membership or above includes the benefit of public listings on Adobe Exchange. Free (Community) membership includes unlisted public detail page URLs for approved listings, which the developer can share with customers. Public listings for Experience Platform Launch catalog listings are available at the free level. Upon TPP registration approval, a organization (org/account) will be assigned to your TPP login credentials, which you should choose when logging into Developer Distribution (DD) or Developer Console (DC)
-2. After your registration has been approved, submit a request for an Adobe product Sandbox for any required APIs using the [TPP sandbox request ticket](https://partners.adobe.com/technologyprogram/experiencecloud/knowledgebase/db56212793bf8214fbe77b847aba1091.html). You will need a sandbox for building your integration in [Developer Console](https://developer.adobe.com/developer-console/), which be assigned to your TPP organization/account. Note that for server-toserver integrations an enterprise credential needs to be associated with the same Developer Console project that is assigned to the listing. 
+2. After your registration has been approved, submit a request for an Adobe product Sandbox for any required APIs using the [TPP sandbox request ticket](https://partners.adobe.com/technologyprogram/experiencecloud/knowledgebase/db56212793bf8214fbe77b847aba1091.html). You will need a sandbox for building your integration in [Developer Console](https://developer.adobe.com/developer-console/), which be assigned to your TPP organization/account. Note that for server-toserver integrations an enterprise credential needs to be associated with the same Developer Console project that is assigned to the listing.
 3. Create a new server-to-server integration listing for your integration in [Developer Distribution](https://developer.adobe.com/developer-distribution). Step 2 in creating a listing is choosing a project that already has your enterprise credential created previously in Developer Console.
 
 ### If I already have an integration listed as a catalog listing, how do I change it to a server-to-server integration listing?
@@ -137,10 +137,11 @@ Adobe Developer App Builder provides a unified third-party extensibility framewo
 ### If I previously created a private App Builder App via the App Builder Trial Sign up, can I distribute it publicly?
 
 Yes, this is the process that any developer should follow if they want to distribute an app builder ISV app that has already been built privately. [Public App Builder Distribution Guide](https://developer.adobe.com/app-builder/docs/guides/distribution/public/)
-1.	Develop or update an App Builder App code.
-2.	Push it to a private workspace for testing.
-3.	Once ready, package it into a ZIP file.
-4.	If your TPP login credentials are not already associated with the org/account used for the private app builder app, ask one of the developers from your company associated with that org to add your TPP login credentials in [Admin Console](https://adminconsole.adobe.com). If you dont know anyone in that org you can file a ticket and ask for the org name and emails of others in your company for you to contact. [TPP Support](https://partners.adobe.com/ec/cform/case)
+
+1. Develop or update an App Builder App code.
+2. Push it to a private workspace for testing.
+3. Once ready, package it into a ZIP file.
+4. If your TPP login credentials are not already associated with the org/account used for the private app builder app, ask one of the developers from your company associated with that org to add your TPP login credentials in [Admin Console](https://adminconsole.adobe.com). If you dont know anyone in that org you can file a ticket and ask for the org name and emails of others in your company for you to contact. [TPP Support](https://partners.adobe.com/ec/cform/case)
 5.	When logging into [Developer Distribution](https://developer.adobe.com/distribute) choose the account that you found in step 4, (it should appear in the upper right org switcher) and 'Create new listing'.
 
 ### Where can I get more information or help?
