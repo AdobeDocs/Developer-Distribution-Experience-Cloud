@@ -32,6 +32,8 @@ Logged in [Technology Partner Program (TPP)](https://partners.adobe.com/techno
 - [Can customers acquire server-to-server integrations from Exchange marketplace today?](#can-customers-acquire-server-to-server-integrations-from-exchange-marketplace-today)
 - [What are the steps to create a server-to-server integration listing for public distribution?](#what-are-the-steps-to-create-a-server-to-server-integration-listing-for-public-distribution)
 - [If I already have a server-to-server integration listed as a catalog listing, how do I change it?](#if-i-already-have-an-integration-listed-as-a-catalog-listing-how-do-i-change-it-to-a-server-to-server-integration-listing)
+- [I do not currently have a server-to-server integration listed as a catalog listing on Exchange marketplace, but I am building one. How should I list it?](#i-do-not-currently-have-a-server-to-server-integration-listed-as-a-catalog-listing-on-exchange-marketplace-but-i-am-building-one-how-should-i-list-it)
+- [I am trying to create an enterprise credential on Developer Console after choosing the Adobe API I want to add for my integration, but I only see the option to choose the older ‘Server-to-server authentication’ credential on the screen to choose authentication type, what should I do?](#i-am-trying-to-create-an-enterprise-credential-on-developer-console-after-choosing-the-adobe-api-i-want-to-add-for-my-integration-but-i-only-see-the-option-to-choose-the-older-server-to-server-authentication-credential-on-the-screen-to-choose-authentication-type- What-should-i-do)
 - [Where can I get more information or help?](#where-can-i-get-more-information-or-help)
 
 <br/>
@@ -81,11 +83,19 @@ In March 2025, Adobe is introducing a new enterprise credential that will enable
 
 ### If I already have an integration listed as a catalog listing, how do I change it to a server-to-server integration listing?
 
-All the server-to-server integrations created before March 2025 are listed as catalog listings on the Exchange marketplace. If you have such an integration, customers on the Exchange marketplace can’t acquire it or manage it. If you would like to list it as a server-to-server integration, you’ll need to create an enterprise credential in Developer Console and create a new listing on Developer Distribution, in the same project as the enterprise credential. You are recommended to retract your legacy catalog listing from Exchange, when the new server-to-server integration listing gets published, so that customers can benefit from the improved workflows and can acquire and manage the listing from Exchange.  
+All the server-to-server integrations created before March 2025 are listed as catalog listings on the Exchange marketplace. If you have such an integration, customers on the Exchange marketplace can’t acquire it or manage it. If you would like to list it as a server-to-server integration, you’ll need to create an enterprise credential in Developer Console and create a new listing on Developer Distribution, in the same project as the enterprise credential. You are recommended to retract your legacy catalog listing from Exchange, when the new server-to-server integration listing gets published, so that customers can benefit from the improved workflows and can acquire and manage the listing from Exchange.
+
+### I do not currently have a server-to-server integration listed as a catalog listing on Exchange marketplace, but I am building one. How should I list it?
+
+All the steps to list a server-to-server integration remain the same as detailed in the previous question, irrespective of whether you already have the integration listed as a catalog listing or not. Note that the key difference between listing an integration as a catalog listing or a server-to-server integration listing is that the latter integration must be built using the new enterprise credential on Developer Console.
+
+### I am trying to create an enterprise credential on Developer Console after choosing the Adobe API I want to add for my integration, but I only see the option to choose the older ‘Server-to-server authentication’ credential on the screen to choose authentication type, what should I do?
+
+The new enterprise credential is visible on the screen that helps you choose authentication type. On this screen, you should see two options: ‘Server-to-server Authentication’ and ‘Admin authentication’. You need to choose the latter option ‘Admin authentication’ if you are building a server-to-server integration for distribution on the Exchange marketplace. If you are not able to see or choose this option, contact [TPP Support](https://partners.adobe.com/ec/cform/case) with details of the kind of integration you are building, and which Adobe API/s you want to use in your integration.
 
 ### Where can I get more information or help?
 
-Contact [TPP Support](https://partners.adobe.com/ec/cform/case)
+File a help ticket to [TPP Support](https://partners.adobe.com/ec/cform/case)
 
 ## Catalog listing Answers
 
@@ -122,10 +132,15 @@ Adobe Developer App Builder provides a unified third-party extensibility framewo
 
 ### If I previously created a private App Builder App via the App Builder Trial Sign up, can I distribute it publicly?
 
-Yes, after you login or join the TPP program, you will be able to create an App Builder listing that can be associated with an existing Developer Console Project.
+Yes, this is the process that any developer should follow if they want to distribute an app builder ISV app that has already been built privately. [Public App Builder Distribution Guide](https://developer.adobe.com/app-builder/docs/guides/distribution/public/)
+1.	Develop or update an App Builder App code.
+2.	Push it to a private workspace for testing.
+3.	Once ready, package it into a ZIP file.
+4.	If your TPP login credentials are not already associated with the org/account used for the private app builder app, ask one of the developers from your company associated with that org to add your TPP login credentials in [Admin Console](https://adminconsole.adobe.com). If you dont know anyone in that org you can file a ticket and ask for the org name and emails of others in your company for you to contact. [TPP Support](https://partners.adobe.com/ec/cform/case)
+5.	When logging into [Developer Distribution](https://developer.adobe.com/distribute) choose the account that you found in step 4, (it should appear in the upper right org switcher) and 'Create new listing'.
 
 ### Where can I get more information or help?
 
 Learn how to build an App Builder app [App Builder documentation](https://developer.adobe.com/app-builder/docs/getting_started/).
 
-Contact [TPP Support](https://partners.adobe.com/ec/cform/case).
+Contact [](https://partners.adobe.com/ec/cform/case).
