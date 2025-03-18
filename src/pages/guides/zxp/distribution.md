@@ -20,12 +20,12 @@ description: This is the FAQ page
 
 <!-- (Commented) App Manager has been merged into Developer Distribution. -->
 
-for partners to build and distribute server-to-server integrations.
+For partners to build and distribute server-to-server integrations.
 
 <br/>
 
 Developer Distribution is a unified portal to self-submit & manage Experience Cloud listings to be published on [Adobe Exchange](https://exchange.adobe.com/apps/browse/ec).
-[Technology Partner Program (TPP)](https://partners.adobe.com/technologyprogram/experiencecloud.html) members can now submit Server-to-server integrations, Catalog listings and App Builder apps for Adobe’s Experience Cloud products in [Developer Distribution](/distribute). 
+[Technology Partner Program (TPP)](https://partners.adobe.com/technologyprogram/experiencecloud.html) members can now submit Server-to-server integrations, Catalog listings and App Builder apps for Adobe’s Experience Cloud products in [Developer Distribution](/distribute).
 
 ## Server-to-server integrations
 
