@@ -58,8 +58,8 @@ Get to know the key concepts around the developer distribution portal.
 
 <DiscoverBlock slots="link, text"/>
 
-[Submission](./submission/overview.md)
+[What's new](./zxp/distribution.md)
 
-Learn about the submission process once you are ready to publish.
+Learn about the three types of Experience Cloud listings.
 
 <br/><br/><br/><br/>
