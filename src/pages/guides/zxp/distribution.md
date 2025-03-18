@@ -32,7 +32,7 @@ Logged in [Technology Partner Program (TPP)](https://partners.adobe.com/techno
 - [Can customers acquire server-to-server integrations from Exchange marketplace today?](#can-customers-acquire-server-to-server-integrations-from-exchange-marketplace-today)
 - [What are the steps to create a server-to-server integration listing for public distribution?](#what-are-the-steps-to-create-a-server-to-server-integration-listing-for-public-distribution)
 - [If I already have a server-to-server integration listed as a catalog listing, how do I change it?](#if-i-already-have-an-integration-listed-as-a-catalog-listing-how-do-i-change-it-to-a-server-to-server-integration-listing)
-- [I do not currently have a server-to-server integration listed as a catalog listing on Exchange marketplace, but I am building one. How should I list it?](#i-do-not-currently-have-a-server-to-server-integration-listed-as-a-catalog-listing-on-exchange-marketplace-but-i-am-building-one-how-should-i-list-it)
+- [I do not currently have a server-to-server integration listed as a catalog listing on Exchange marketplace, but I am building one, how should I list it?](#i-do-not-currently-have-a-server-to-server-integration-listed-as-a-catalog-listing-on-exchange-marketplace-but-i-am-building-one-how-should-i-list-it)
 - [I am trying to create an enterprise credential on Developer Console after choosing the Adobe API I want to add for my integration, but I only see the option to choose the older ‘Server-to-server authentication’ credential on the screen to choose authentication type, what should I do?](#i-am-trying-to-create-an-enterprise-credential-on-developer-console-after-choosing-the-adobe-api-i-want-to-add-for-my-integration-but-i-only-see-the-option-to-choose-the-older-server-to-server-authentication-credential-on-the-screen-to-choose-authentication-type- What-should-i-do)
 - [Where can I get more information or help?](#where-can-i-get-more-information-or-help)
 
@@ -101,7 +101,7 @@ File a help ticket to [TPP Support](https://partners.adobe.com/ec/cform/case)
 
 ### What is a catalog listing?
 
-Catalog listing is the name for the legacy Experience Cloud third-party listings that extend one or more Adobe Experience Cloud products, but without an acquisition workflow on the Exchange marketplace. The existing 390+ public catalog listings on [Adobe Exchange](https://exchange.adobe.com/apps/browse/ec) were submitted using App Manager. These are typically multi-tenant service-to-service integrations that require enterprise customers to contact the developer to be acquired and installed.
+Catalog listings are metadata-only server-to-server listings that extend one or more Adobe Experience Cloud products, but without an acquisition workflow on the Exchange marketplace. The existing 275+ public catalog listings on [Adobe Exchange](https://exchange.adobe.com/apps/browse/ec) require enterprise customers to contact the developer to be acquired and installed.
 
 ### Can I use Developer Distribution to create and manage catalog listings?
 
