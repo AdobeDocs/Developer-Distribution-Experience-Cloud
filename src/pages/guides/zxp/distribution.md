@@ -2,7 +2,7 @@
 keywords:
   - App Manager
   - App Builder app
-  - Software integration
+  - server-to-server
   - Developer Distribution
   - Extensibility
   - Adobe Exchange
@@ -16,11 +16,11 @@ description: This is the FAQ page
 
 <Hero slots="heading, text" background="rgb(141, 52, 78)"/>
 
-# What's New: Introducing a new credential for partners to build and distribute software integrations.
+# What's New: Introducing a new credential for partners to build and distribute server-to-server integrations.
 
 <!-- (Commented) App Manager has been merged into Developer Distribution. -->
 
-Logged in [Technology Partner Program (TPP)](https://partners.adobe.com/technologyprogram/experiencecloud.html) members can submit Server-to-server integrations, catalog listings and App Builder apps for Adobe’s Experience Cloud products in [Developer Distribution](/distribute). Developer Distribution is a unified portal to self-submit & manage Experience Cloud listings to be published on [Adobe Exchange](https://exchange.adobe.com/apps/browse/ec).
+[Technology Partner Program (TPP)](https://partners.adobe.com/technologyprogram/experiencecloud.html) members can submit Server-to-server integrations, Catalog listings and App Builder apps for Adobe’s Experience Cloud products in [Developer Distribution](/distribute). Developer Distribution is a unified portal to self-submit & manage Experience Cloud listings to be published on [Adobe Exchange](https://exchange.adobe.com/apps/browse/ec).
 
 <br/>
 
@@ -64,22 +64,22 @@ Logged in [Technology Partner Program (TPP)](https://partners.adobe.com/techno
 
 ### What is a server-to-server integration?
 
-A server-to-server integration are API based integrations between two or more servers which essentially exchange data, protected by security mechanisms like Oauth authentication. The data exchange happens completely between the servers, so these information exchanges aren’t visible to individual users.  
+Server-to-server integrations are API based integrations between two or more servers which essentially exchange data, protected by security mechanisms like Oauth authentication. The data exchange happens completely between the servers, so these information exchanges aren’t visible to individual users.  
 
-Adobe Exchange has 275+ public server-to-server integrations that extend Experience Cloud products; but these are mostly catalog listings. This means customers can find them on Adobe Exchange but need to contact the publisher of that application directly to acquire them.
+Adobe Exchange has 275+ public server-to-server integrations that extend Experience Cloud products; but these are mostly catalog listings. This means customers can browse them on Adobe Exchange but need to contact the publisher of that application directly to acquire them.
 
 ### Can customers acquire server-to-server integrations from Exchange marketplace today?
 
-In March 2025, Adobe is introducing a new enterprise credential that will enable developers to publish server-to-server integrations that can be acquired from Adobe Exchange without having to contact the partner directly. To differentiate between the existing integrations that can’t be acquired from the Exchange marketplace, and the new ones that get created using the new enterprise credentials, they will be referred to ‘catalog listings’ and ‘server-to-server integrations respectively’ on Developer Distribution. The process for creating these listings will differ.  
+In March 2025, Adobe introduced a new enterprise credential that will enable developers to publish server-to-server integrations which users can acquire from Adobe Exchange without having to contact the developer directly. Existing metadata-only server-to-server integrations that cannot be acquired from the Exchange marketplace are referred to as 'catalog listings' whereas 'Server-to-server' integration listings refer to integrations created with the new enterprise credentials. The process for creating these listings will differ.  
 
-- A catalog listing can be created directly from Developer Distribution, without the publisher needing to go to Developer Console mandatorily. However, note that these integrations still require Oauth server-to-server credentials generated on Developer Console to be able to function correctly.
-- A server-to-server integration can only be created in an existing project that has an enterprise credential associated with it.
+- A catalog listing can be created directly from Developer Distribution, without the publisher needing to go to Developer Console ahead of time. Note, however, that catalog listing integrations still require Oauth server-to-server credentials generated on Developer Console which the developer will need to share with their customer.
+- A server-to-server integration must be created in Developer Distribution with an existing project that already has an enterprise credential associated with it, assigned in Developer Console.
 
 ### What are the steps to create a server-to-server integration listing for public distribution?
 
-1. Login or join the [Technology Partner Program (TPP)](https://partners.adobe.com/technologyprogram/experiencecloud.html). You will have to join the TPP as a Silver Member or above for your published listing to be displayed publicly on the Exchange marketplace. At the free level, only an unlisted detail page URL is available to share with potential customers. Public listings for Experience Platform Launch are available at the free level. Upon TPP registration approval, a organization (org) will be assigned to your Adobe login credentials, and you’ll have access to create server-to-server integration listings in Developer Distribution.
-2. After your registration has been approved, submit a request for an Adobe product Sandbox for any required API using the [TPP sandbox request ticket](https://partners.adobe.com/technologyprogram/experiencecloud/knowledgebase/db56212793bf8214fbe77b847aba1091.html). You will need a sandbox for building your integration in [Developer Console](https://developer.adobe.com/developer-console/), which you can then list as a server-to-server integration listing on Developer Distribution. Note that for server-to-server integration listings, an enterprise credential needs to be present in the same Developer Console project as the one where you create your server-to-server integration listing.
-3. Create a new server-to-server integration listing for your integration in [Developer Distribution](https://developer.adobe.com/developer-distribution). You will need to associate the listing with an existing Developer Console project that has an enterprise credential associated with it already.
+1. Login or join the [Technology Partner Program (TPP)](https://partners.adobe.com/technologyprogram/experiencecloud.html). TPP Silver Membership or above includes the benefit of public listings on Adobe Exchange. Free (Community) membership includes unlisted public detail page URLs for approved listings, which the developer can share with customers. Public listings for Experience Platform Launch catalog listings are available at the free level. Upon TPP registration approval, a organization (org/account) will be assigned to your TPP login credentials, which you should choose when logging into Developer Distribution (DD) or Developer Console (DC)
+2. After your registration has been approved, submit a request for an Adobe product Sandbox for any required APIs using the [TPP sandbox request ticket](https://partners.adobe.com/technologyprogram/experiencecloud/knowledgebase/db56212793bf8214fbe77b847aba1091.html). You will need a sandbox for building your integration in [Developer Console](https://developer.adobe.com/developer-console/), which be assigned to your TPP organization/account. Note that for server-toserver integrations an enterprise credential needs to be associated with the same Developer Console project that is assigned to the listing.
+3. Create a new server-to-server integration listing for your integration in [Developer Distribution](https://developer.adobe.com/developer-distribution). Step 2 in creating a listing is choosing a project that already has your enterprise credential created previously in Developer Console.
 
 ### If I already have an integration listed as a catalog listing, how do I change it to a server-to-server integration listing?
 
@@ -92,6 +92,10 @@ All the steps to list a server-to-server integration remain the same as detailed
 ### I am trying to create an enterprise credential on Developer Console after choosing the Adobe API I want to add for my integration, but I only see the option to choose the older ‘Server-to-server authentication’ credential on the screen to choose authentication type, what should I do?
 
 The new enterprise credential is visible on the screen that helps you choose authentication type. On this screen, you should see two options: ‘Server-to-server Authentication’ and ‘Admin authentication’. You need to choose the latter option ‘Admin authentication’ if you are building a server-to-server integration for distribution on the Exchange marketplace. If you are not able to see or choose this option, contact [TPP Support](https://partners.adobe.com/ec/cform/case) with details of the kind of integration you are building, and which Adobe API/s you want to use in your integration.
+
+### I do not currently have a server-to-server integration listed as a catalog listing on Exchange marketplace, but I am building one. How should I list it?
+
+All the steps to list a server-to-server integration remain the same as detailed in the previous question, irrespective of whether you already have the integration listed as a catalog listing or not. Note that the key difference between listing an integration as a catalog listing or a server-to-server integration listing is that the latter integration must be built using the new enterprise credential on Developer Console.
 
 ### Where can I get more information or help?
 
@@ -133,10 +137,11 @@ Adobe Developer App Builder provides a unified third-party extensibility framewo
 ### If I previously created a private App Builder App via the App Builder Trial Sign up, can I distribute it publicly?
 
 Yes, this is the process that any developer should follow if they want to distribute an app builder ISV app that has already been built privately. [Public App Builder Distribution Guide](https://developer.adobe.com/app-builder/docs/guides/distribution/public/)
-1.	Develop or update an App Builder App code.
-2.	Push it to a private workspace for testing.
-3.	Once ready, package it into a ZIP file.
-4.	If your TPP login credentials are not already associated with the org/account used for the private app builder app, ask one of the developers from your company associated with that org to add your TPP login credentials in [Admin Console](https://adminconsole.adobe.com). If you dont know anyone in that org you can file a ticket and ask for the org name and emails of others in your company for you to contact. [TPP Support](https://partners.adobe.com/ec/cform/case)
+
+1. Develop or update an App Builder App code.
+2. Push it to a private workspace for testing.
+3. Once ready, package it into a ZIP file.
+4. If your TPP login credentials are not already associated with the org/account used for the private app builder app, ask one of the developers from your company associated with that org to add your TPP login credentials in [Admin Console](https://adminconsole.adobe.com). If you dont know anyone in that org you can file a ticket and ask for the org name and emails of others in your company for you to contact. [TPP Support](https://partners.adobe.com/ec/cform/case)
 5.	When logging into [Developer Distribution](https://developer.adobe.com/distribute) choose the account that you found in step 4, (it should appear in the upper right org switcher) and 'Create new listing'.
 
 ### Where can I get more information or help?
