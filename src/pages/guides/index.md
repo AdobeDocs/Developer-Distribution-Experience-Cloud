@@ -34,7 +34,7 @@ A self-service submission portal for developers to publish listings that extend 
 
 ## Overview
 
-Use [Adobe Developer Distribution](/distribute/home) to publish and distribute App Builder Apps, Service-to-service integrations and Catalog listings for to extend Adobe Experience Cloud products. Once submitted, these listings are approved by Adobe reviewers before being published on Adobe Exchange.
+Use [Developer Distribution Overview](https://developer.adobe.com/developer-distribution/experience-cloud/docs/guides/) to publish and distribute App Builder Apps, Service-to-service integrations and Catalog listings for to extend Adobe Experience Cloud products. Once submitted, these listings are approved by Adobe reviewers before being published on Adobe Exchange.
 
 ## Three types of Experience Cloud listings
 
@@ -44,7 +44,7 @@ Use [Adobe Developer Distribution](/distribute/home) to publish and distribute A
 
 ## Access the Developer Distribution Portal
 
-Developers must join the Technology Partner Portal (TPP) in order to publish Experience Cloud listings. After joining, developers can request product sandboxes and are assigned an org/account to manage listings. The first registered user can enable additional users to access Developer Distribution and Developer Console by adding their Adobe ID login credentials in Admin Console. TPP members who get an error should contact [TPP Support](https://partners.adobe.com/ec/cform/case).
+Developers must join the [Technology Partner Portal (TPP)](https://partners.adobe.com/technologyprogram/experiencecloud.html)in order to publish Experience Cloud listings. After joining, developers can request product sandboxes and are assigned an org/account to manage listings. The first TPP registered user can enable other users to access [Developer Distribution login](https://developer.adobe.com/distribute ) and [Developer Console login](https://developer.adobe.com/console/) by assigning an admin role for additional Adobe ID user credentials in [Admin Console Login](https://adminconsole.adobe.com/). TPP members who still get an error attempting to use Developer Distribution should contact [TPP Support](https://partners.adobe.com/ec/cform/case).
 
 <div style="margin-top: 1em">&nbsp;</div>
 

@@ -16,13 +16,16 @@ description: This is the FAQ page
 
 <Hero slots="heading, text" background="rgb(141, 52, 78)"/>
 
-# What's New: Introducing a new credential for partners to build and distribute server-to-server integrations.
+# What's New: Introducing a new enterprise credential
 
 <!-- (Commented) App Manager has been merged into Developer Distribution. -->
 
-[Technology Partner Program (TPP)](https://partners.adobe.com/technologyprogram/experiencecloud.html) members can submit Server-to-server integrations, Catalog listings and App Builder apps for Adobe’s Experience Cloud products in [Developer Distribution](/distribute). Developer Distribution is a unified portal to self-submit & manage Experience Cloud listings to be published on [Adobe Exchange](https://exchange.adobe.com/apps/browse/ec).
+For partners to build and distribute server-to-server integrations.
 
 <br/>
+
+Developer Distribution is a unified portal to self-submit & manage Experience Cloud listings to be published on [Adobe Exchange](https://exchange.adobe.com/apps/browse/ec).
+[Technology Partner Program (TPP)](https://partners.adobe.com/technologyprogram/experiencecloud.html) members can now submit Server-to-server integrations, Catalog listings and App Builder apps for Adobe’s Experience Cloud products in [Developer Distribution](/distribute).
 
 ## Server-to-server integrations
 
@@ -33,7 +36,7 @@ description: This is the FAQ page
 - [What are the steps to create a server-to-server integration listing for public distribution?](#what-are-the-steps-to-create-a-server-to-server-integration-listing-for-public-distribution)
 - [If I already have a server-to-server integration listed as a catalog listing, how do I change it?](#if-i-already-have-an-integration-listed-as-a-catalog-listing-how-do-i-change-it-to-a-server-to-server-integration-listing)
 - [I do not currently have a server-to-server integration listed as a catalog listing on Exchange marketplace, but I am building one, how should I list it?](#i-do-not-currently-have-a-server-to-server-integration-listed-as-a-catalog-listing-on-exchange-marketplace-but-i-am-building-one-how-should-i-list-it)
-- [I am trying to create an enterprise credential on Developer Console after choosing the Adobe API I want to add for my integration, but I only see the option to choose the older ‘Server-to-server authentication’ credential on the screen to choose authentication type, what should I do?](#i-am-trying-to-create-an-enterprise-credential-on-developer-console-after-choosing-the-adobe-api-i-want-to-add-for-my-integration-but-i-only-see-the-option-to-choose-the-older-server-to-server-authentication-credential-on-the-screen-to-choose-authentication-type- What-should-i-do)
+- [I am trying to create an enterprise credential on Developer Console after choosing the Adobe API I want to add for my integration, but I only see the option to choose the older ‘Server-to-server authentication’ credential on the screen to choose authentication type, what should I do?](#i-am-trying-to-create-an-enterprise-credential-on-developer-console-after-choosing-the-adobe-api-i-want-to-add-for-my-integration-but-i-only-see-the-option-to-choose-the-older-server-to-server-authentication-credential-on-the-screen-to-choose-authentication-type-what-should-i-do)
 - [Where can I get more information or help?](#where-can-i-get-more-information-or-help)
 
 <br/>
