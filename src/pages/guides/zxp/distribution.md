@@ -25,7 +25,7 @@ For partners to build and distribute server-to-server integrations.
 <br/>
 
 Developer Distribution is a unified portal to self-submit & manage Experience Cloud listings to be published on [Adobe Exchange](https://exchange.adobe.com/apps/browse/ec).
-Now server-to-server integrations can be submitted by [Technology Partner Program (TPP)](https://partners.adobe.com/technologyprogram/experiencecloud.html) members along with, Catalog listings and App Builder apps for Adobe’s Experience Cloud products in Developer Distribution. Click the upper right Distribute button when you have a TPP login and are ready to create or manage your listing. 
+Now server-to-server integrations can be submitted by [Technology Partner Program (TPP)](https://partners.adobe.com/technologyprogram/experiencecloud.html) members along with Catalog listings and App Builder apps for Adobe’s Experience Cloud products in Developer Distribution. Click the upper right Distribute button when you have a TPP login and are ready to create or manage your listing. 
 
 <br/>
 
