@@ -143,7 +143,7 @@ Yes, this is the process that any developer should follow if they want to distri
 2. Push it to a private workspace for testing.
 3. Once ready, package it into a ZIP file.
 4. If your TPP login credentials are not already associated with the org/account used for the private app builder app, ask one of the developers from your company associated with that org to add your TPP login credentials in [Admin Console](https://adminconsole.adobe.com). If you dont know anyone in that org you can file a ticket and ask for the org name and emails of others in your company for you to contact. [TPP Support](https://partners.adobe.com/ec/cform/case)
-5.	When logging into [Developer Distribution](https://developer.adobe.com/distribute) choose the account that you found in step 4, (it should appear in the upper right org switcher) and 'Create new listing'.
+5.	When logging into [Developer Distribution](https://developer.adobe.com/distribute) choose the org/account that you joined in step 4, (it should appear in the upper right org switcher) and 'Create new listing'.
 
 ### Where can I get more information or help?
 
