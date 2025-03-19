@@ -34,7 +34,7 @@ A self-service submission portal for developers to publish listings that extend 
 
 ## Overview
 
-Use Developer Distribution to publish and distribute App Builder Apps, Service-to-service integrations and Catalog listings to extend Adobe Experience Cloud products. Once submitted, these listings will be approved by Adobe reviewers before being published on Adobe Exchange.
+Use Developer Distribution to publish and distribute App Builder Apps, Server-to-server integrations and Catalog listings to extend Adobe Experience Cloud products. Once submitted, these listings will be approved by Adobe reviewers before being published on Adobe Exchange.
 
 ## Three types of Experience Cloud listings
 
