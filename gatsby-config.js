@@ -46,9 +46,13 @@ module.exports = {
                 title: "App Builder apps",
               },
               {
-                path: "guides/submission/service_to_service.md",
-                title: "Software Integrations",
-              },             
+                path: "guides/submission/catalog_listing_submission.md",
+                title: "Catalog Listings",
+              },
+              {
+                path: "guides/submission/server_to_server_submission.md",
+                title: "S2S Integrations",
+              },
             ],
           },
           {
