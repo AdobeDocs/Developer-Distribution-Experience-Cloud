@@ -22,7 +22,3 @@ description: Server to server integration listing submission
 # Server to Server Integrations
 
 The following workflows detail the creation and submission of a Server to Server Integration listing for Adobe review.
-
-# How to Submit
-
-_**NEEDS TO BE UPDATED**_
