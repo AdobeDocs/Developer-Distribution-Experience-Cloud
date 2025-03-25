@@ -1,27 +1,27 @@
 ---
 keywords:
-  - Creative Cloud
+  - Listing
   - Marketplace
   - Exchange
   - Distribution
   - Extensibility
-  - SDK
+  - API
   - Developer Tooling
-  - UXP
+  - Enterprise Customer
   - Photoshop
-  - XD
+  - AEP
   - Plugin
   - JavaScript
   - Developer Console
-  - Creative Cloud Desktop
+  - Experience Cloud
   - FastSpring
-title: Service to Service
-description: This is the service to service page
+title: Catalog Listings
+description: Catalog listing submission
 ---
 
-# Software Integration
+# Catalog Listings
 
-The following screenshots explain the creation and submission of a Software integration listing for Adobe review.
+The following workflows detail the creation and submission of a Catalog listing for Adobe review.
 
 ![sample image alt text](../../images/Your_Listings_card_view.png)
 
@@ -31,7 +31,7 @@ A new listing can be created from the home page or the “Your listings” page.
 
 ![Screenshot of Exchange](../../images/DX-Submission_1.png)
 
-In order to create a software integration listing for Adobe’s Digital Experience products, the developer must have a sandbox Enterprise org associated with their Adobe login. All Technology Partner Program members get a sandbox enterprise org assigned upon approved registration. Attempting to create a software integration listing without joining Technology Partner Program will result in the access denied screens as below:
+In order to create a server to server listing for Adobe’s Digital Experience products, the developer must have a sandbox Enterprise org associated with their Adobe login. All Technology Partner Program members get a sandbox enterprise org assigned upon approved registration. Attempting to create a software integration listing without joining Technology Partner Program will result in the access denied screens as below:
 
 ![Screenshot of Exchange](../../images/DX-Submission_2.png)
 
