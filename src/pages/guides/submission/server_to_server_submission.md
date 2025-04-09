@@ -55,9 +55,9 @@ The developer can navigate to the “Listing details” page to add listing-leve
 ![Listing details](../../images/S2S_Submission_7.png)
 
 This is the landing page to create a submission. Note the following items:
-1.	The navigation panel on the left confirms that this is the Listing Details screen.
-2.	The requestor's role and organization name are listed in the upper right-hand corner.
-3.	The menu at the top of the screen indicates the listing status, products it integrates with, listing type, distribution type (private/public), last modified date and app ID.
+  1. The navigation panel on the left confirms that this is the Listing Details screen.
+  2. The requestor's role and organization name are listed in the upper right-hand corner.
+  3. The menu at the top of the screen indicates the listing status, products it integrates with, listing type, distribution type (private/public), last modified date and app ID.
 
 The listing details for the app are ready to be added now.
 
@@ -81,7 +81,7 @@ The Products tab has the list of Adobe products that the server-to-server integr
 
 ![Listing details Products tab](../../images/S2S_Submission_11.png)
 
-Note that for AEP Sources connectors listing, ‘Adobe Experience Cloud’ is pre-selected. However, the developer can add, edit or remove products on this tab based on which product/s their integration works with. The developer should be careful in choosing the products to match the services (Adobe APIs) that they have added to the project in Developer Console, otherwise Adobe reviewer might reject the listing. 
+Note that for AEP Sources connectors listing, ‘Adobe Experience Cloud’ is pre-selected. However, the developer can add, edit or remove products on this tab based on which product/s their integration works with. The developer should be careful in choosing the products to match the services (Adobe APIs) that they have added to the project in Developer Console, otherwise Adobe reviewer might reject the listing.
 
 ![Listing details Products tab](../../images/S2S_Submission_12.png)
 
@@ -112,7 +112,7 @@ Delay publishing allows the developer to choose whether they want to publish the
 ![Submit for review](../../images/S2S_Submission_18.png)
 
 Upon successful submission of the listing, the developer is taken to the ‘Listing Overview’ page, where a success message confirms the submission. The status of the Listing changes from draft to ‘In review’, and the developer receives an email communication confirming the same.
-Till the time an Adobe reviewer is assigned to review the listing, the developer can recall it from the review queue by clicking on Recall submission button. 
+Till the time an Adobe reviewer is assigned to review the listing, the developer can recall it from the review queue by clicking on Recall submission button.
 
 ![Submission confirmation](../../images/S2S_Submission_19.png)
 
@@ -120,7 +120,7 @@ Till the time an Adobe reviewer is assigned to review the listing, the developer
 
 ## Reviewing a Submission
 
-When an integration has been submitted for review, an Adobe administrator will review the application details. If all the information is complete and the requirements are met, the reviewer will approve the submission. The status of the submission will show a green ‘Approved’ or ‘Published’, depending on what the developer chose as the publishing time preference. 
+When an integration has been submitted for review, an Adobe administrator will review the application details. If all the information is complete and the requirements are met, the reviewer will approve the submission. The status of the submission will show a green ‘Approved’ or ‘Published’, depending on what the developer chose as the publishing time preference.
 The developer is notified by email when the listing is approved and published on the marketplace.
 
 ![Update your listing](../../images/S2S_Submission_21.png)
