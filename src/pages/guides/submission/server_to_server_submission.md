@@ -45,3 +45,50 @@ In order to create a server-to-server integration listing for Adobe’s Digital 
 Once the listing type has been chosen, another modal will ask the developer to choose the Developer Console project they want to be associated with the listing. Note that to create a server-to-server integration listing of either of the two types (AEP Sources connector or generic), The developer must choose an existing project that was created in Developer Console. Only the projects that have the required enterprise credential added to them will show up on this screen. If no project exists with an enterprise credential, the developer will need to first go to Developer Console and create it.
 
 ![Choose project for your listing](../../images/S2S_Submission_5.png)
+
+Upon successful creation of the listing, the developer will be routed to the "Listing Overview" page. This page provides a high-level overview of the listing, such as its status, products it integrates with, listing type, distribution type (private/public), last modified date, app ID, and next steps.
+
+![Listing overview](../../images/S2S_Submission_6.png)
+
+The developer can navigate to the “Listing details” page to add listing-level metadata details that help users discover their listing in the marketplace once it’s published.
+
+![Listing details](../../images/S2S_Submission_7.png)
+
+This is the landing page to create a submission. Note the following items:
+1.	The navigation panel on the left confirms that this is the Listing Details screen.
+2.	The requestor's role and organization name are listed in the upper right-hand corner.
+3.	The menu at the top of the screen indicates the listing status, products it integrates with, listing type, distribution type (private/public), last modified date and app ID.
+
+The listing details for the app are ready to be added now.
+
+## Listing Details
+
+The developer can submit the new listing metadata in multiple tabs: General, Icons, Media, Products, Tags, and Services. Another tab called ‘API’ allows developer to see details on the associated Developer Console project, connected credential, connected APIs and their respective scopes. All mandatory fields are marked with an asterisk.
+
+The General tab has the application’s public name, a short description (subtitle), a long description, support information (email, URL, phone number and information), and consent screen details that the customer will be able to see before giving their consent to the developer’s application before using it, once it’s published. Be sure to save a draft if you navigate away from the page.
+
+![Listing details General tab](../../images/S2S_Submission_8.png)
+
+The Icons tab requires three different icon sizes for each integration. Featured image is also required for the published apps that are chosen to be featured on the Exchange marketplace.
+
+![Listing details Icons tab](../../images/S2S_Submission_9.png)
+
+The Media tab has screenshots, videos, documents, and developer references. Up to ten screenshots and up to ten video links can be added and a caption can be added for each screenshot and each video. Up to ten documents and up to ten developer reference materials can be added as URLs.
+
+![Listing details Media tab](../../images/S2S_Submission_10.png)
+
+The Products tab has the list of Adobe products that the server-to-server integration might support. The developer can choose one or more products as ‘Required’ or ‘Optional’. Required products are the ones that the integration needs to function properly. Optional products are the ones that the integration supports but doesn't necessarily require. At least one Required or two Optional products need to be added.
+
+![Listing details Products tab](../../images/S2S_Submission_11.png)
+
+Note that for AEP Sources connectors listing, ‘Adobe Experience Cloud’ is pre-selected. However, the developer can add, edit or remove products on this tab based on which product/s their integration works with. The developer should be careful in choosing the products to match the services (Adobe APIs) that they have added to the project in Developer Console, otherwise Adobe reviewer might reject the listing. 
+
+![Listing details Products tab](../../images/S2S_Submission_12.png)
+
+The Tags tab has standard tags, categories (such as Country and Industry), and custom tags that developers can add. These categories and tags help marketplace customers discover and filter/sort the server-to-server integration listings published on the marketplace.
+
+![Listing details Tags tab](../../images/S2S_Submission_13.png)
+
+The Services tab is for entering information such as installation instructions and supported languages. The developer can choose an existing template for installation instructions or add a custom one in the URL format. Supported languages are the languages that the application’s in-app UI supports.
+
+![Listing details Services tab](../../images/S2S_Submission_14.png)
