@@ -92,3 +92,43 @@ The Tags tab has standard tags, categories (such as Country and Industry), and c
 The Services tab is for entering information such as installation instructions and supported languages. The developer can choose an existing template for installation instructions or add a custom one in the URL format. Supported languages are the languages that the application’s in-app UI supports.
 
 ![Listing details Services tab](../../images/S2S_Submission_14.png)
+
+Note that for AEP Sources connectors, developer is also required to share the git repo link that provides the spec that has details on the connector metadata and on how the AEP Source streaming connector data is ingested.
+
+![Listing details Services tab](../../images/S2S_Submission_15.png)
+
+The API tab has the details added from the associated Developer Console project. The API tab shows the project name, credential name and redirection details, client ID, connected services (APIs added in corresponding Developer Console project), service-wise list of associated scopes and their scope descriptions that the customer admins will be able to see while providing their consent to the integration. The information on this tab is read-only on Developer Distribution and can only be edited in Developer Console. The purpose of this information showing on Developer Distribution is to help developer ensure that everything is correct, before submitting the integration listing for Adobe’s review.
+
+![Listing details API tab](../../images/S2S_Submission_16.png)
+
+When all the mandatory metadata details have been added, clicking the ‘Preview and submit’ button will open the confirmation modal. This modal informs the developer that they cannot add or remove APIs once the listing is submitted for Adobe’s review. Additionally, on submission, the credential name on Developer Console is updated to the listing name that the developer has provided on Developer Distribution. Lastly, they are also informed that a redirection link will be added to their listing, so that the customer organization’s admin initiating consent to the application from the Exchange marketplace will be redirected back correctly, after providing the consent.
+
+![Submit this listing dialog](../../images/S2S_Submission_17.png)
+
+Clicking the ‘Yes, continue’ button will open the submission modal. The modal also gives the developer the option to preview the listing or view their public profile.
+The developer must provide a note to Adobe reviewers and mark the checkbox for Adobe brand guidelines for the Submit listing button to be enabled.
+Delay publishing allows the developer to choose whether they want to publish the initial listing immediately on approval by Adobe, or on a later date. Note that for AEP Sources connector listings, the listings will be published on the Exchange marketplace and AEP Sources connectors catalog in AEP on the same date. To ensure this, AEP Sources connector listings are published immediately on approval, and can’t be manually published later by the developer.
+
+![Submit for review](../../images/S2S_Submission_18.png)
+
+Upon successful submission of the listing, the developer is taken to the ‘Listing Overview’ page, where a success message confirms the submission. The status of the Listing changes from draft to ‘In review’, and the developer receives an email communication confirming the same.
+Till the time an Adobe reviewer is assigned to review the listing, the developer can recall it from the review queue by clicking on Recall submission button. 
+
+![Submission confirmation](../../images/S2S_Submission_19.png)
+
+![Email](../../images/S2S_Submission_20.png)
+
+## Reviewing a Submission
+
+When an integration has been submitted for review, an Adobe administrator will review the application details. If all the information is complete and the requirements are met, the reviewer will approve the submission. The status of the submission will show a green ‘Approved’ or ‘Published’, depending on what the developer chose as the publishing time preference. 
+The developer is notified by email when the listing is approved and published on the marketplace.
+
+![Update your listing](../../images/S2S_Submission_21.png)
+
+Listing details can be edited on an approved, published, or retracted listing. Metadata edits are highlighted by a yellow outline. The status has an edit suffix.
+
+![Edit your listing](../../images/S2S_Submission_22.png)
+
+Edits can be submitted for review and will take effect immediately upon approval. Note the edit suffix on the submission modal and the fact that 'Delayed publishing’ is disabled for metadata changes to an approved, published or retracted listing.
+
+![Submit for review](../../images/S2S_Submission_23.png)
