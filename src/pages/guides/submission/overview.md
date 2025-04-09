@@ -21,6 +21,10 @@ description: This is the submission and review overview page
 
 # Submission and Review
 
-Congratulations! You've built an App Builder app and you're ready to list it on Adobe Exchange.
+Congratulations! You are now ready to list your App Builder app, Catalog Listing or Server to Server Integration on Adobe Exchange.
 
-Follow the [App Builder app submission instructions](./app_builder_submission.md) to create listing metadata and upload your app. Once complete you can submit it to Adobe Reviewers. You will be notified when your app is live on Adobe Exchange.
+Follow the instructions for submitting any of your below listing types. Once submitted it will be reviewed by Adobe Reviewers. You will be notified when your listing is live on Adobe Exchange.
+
+* [App Builder apps](./app_builder_submission.md)
+* [Catalog Listings](./catalog_listing_submission.md)
+* [Server to server Integrations](./server_to_server_submission.md)
