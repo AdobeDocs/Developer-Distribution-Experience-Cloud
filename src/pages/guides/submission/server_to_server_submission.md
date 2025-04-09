@@ -55,6 +55,7 @@ The developer can navigate to the “Listing details” page to add listing-leve
 ![Listing details](../../images/S2S_Submission_7.png)
 
 This is the landing page to create a submission. Note the following items:
+
   1. The navigation panel on the left confirms that this is the Listing Details screen.
   2. The requestor's role and organization name are listed in the upper right-hand corner.
   3. The menu at the top of the screen indicates the listing status, products it integrates with, listing type, distribution type (private/public), last modified date and app ID.
