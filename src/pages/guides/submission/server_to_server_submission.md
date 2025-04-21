@@ -42,7 +42,7 @@ There are two types of ‘Server-to-server integration for Experience Cloud’ l
 
 ![Choose a listing type](../../images/S2S_Submission_3.png)
 
-In order to create a server-to-server integration listing for Adobe’s Digital Experience products, the developer must have a sandbox Enterprise org associated with their Adobe login. All Technology Partner Program members get a sandbox enterprise org assigned upon approved registration. Attempting to create an integration listing without joining Technology Partner Program will result in the access denied screens as below. If you encounter this screen, file a [TPPSupport ticket](https://partners.adobe.com/ec/cform/case) to get help resolving the screen.: 
+In order to create a server-to-server integration listing for Adobe’s Digital Experience products, the developer must have a sandbox Enterprise org associated with their Adobe login. All Technology Partner Program members get a sandbox enterprise org assigned upon approved registration. Attempting to create an integration listing without joining Technology Partner Program will result in the access denied screens as below. If you encounter this screen, file a [TPPSupport ticket](https://partners.adobe.com/ec/cform/case) to get help resolving the screen.:
 
 ![Permission required](../../images/S2S_Submission_4.png)
 
@@ -138,4 +138,4 @@ Edits can be submitted for review and will take effect immediately upon approval
 
 ![Submit for review](../../images/S2S_Submission_23.png)
 
-If you have any questions or suggestions regarding this guide, please file a help ticket to [TPP Support](https://partners.adobe.com/ec/cform/case). 
+If you have any questions or suggestions regarding this guide, please file a help ticket to [TPP Support](https://partners.adobe.com/ec/cform/case).
