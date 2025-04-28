@@ -18,7 +18,7 @@ description: This is the FAQ page
 
 # What's New: Introducing a new enterprise credential
 
-<!-- (Commented) App Manager has been merged into Developer Distribution. -->
+<!-- (Commented) App Manager has been merged into Developer Distribution.  -->
 
 For partners to build and distribute server-to-server integrations.
 
