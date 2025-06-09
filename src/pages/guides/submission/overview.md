@@ -25,6 +25,6 @@ Congratulations! You are now ready to list your App Builder app, Catalog Listing
 
 Follow the instructions for submitting any of your below listing types. Once submitted it will be reviewed by Adobe Reviewers. You will be notified when your listing is live on Adobe Exchange.
 
-* [App Builder apps](./app_builder_submission.md)
-* [Catalog Listings](./catalog_listing_submission.md)
-* [Server to server Integrations](./server_to_server_submission.md)
+* [App Builder apps](./app-builder-submission.md)
+* [Catalog Listings](./catalog-listing-submission.md)
+* [Server to server Integrations](./server-to-server-submission.md)

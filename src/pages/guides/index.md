@@ -23,14 +23,14 @@ keywords:
   - AEM
   - Commerce
 title: Experience Cloud Documentation for Adobe Developer Distribution
-description: A self-service submission portal for developers to publish listings that extend Adobe products on Adobe Exchange.​​
+description: A self-service submission portal for developers to publish listings that extend Adobe products on Adobe Exchange.
 ---
 
 <Hero slots="heading, text" background="rgb(141, 52, 78)"/>
 
 # Adobe Developer Distribution
 
-A self-service submission portal for developers to publish listings that extend Adobe Experience Cloud products on the Experience Cloud Marketplace.​
+A self-service submission portal for developers to publish listings that extend Adobe Experience Cloud products on the Experience Cloud Marketplace.
 
 ## Overview
 
@@ -52,7 +52,7 @@ Developers must join the [Technology Partner Portal (TPP)](https://partners.adob
 
 ## Next Steps
 
-[Getting started](./getting_started.md)
+[Getting started](./getting-started.md)
 
 Get to know the key concepts around the developer distribution portal.
 

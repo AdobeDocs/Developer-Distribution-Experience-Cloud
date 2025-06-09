@@ -1,0 +1,156 @@
+{
+  "total": 37,
+  "offset": 0,
+  "limit": 37,
+  "data": [
+    {
+      "Source": "/developer-distribution/experience-cloud/docs/support",
+      "Destination": "/developer-distribution/experience-cloud/docs/support/"
+    },
+    {
+      "Source": "/developer-distribution/experience-cloud/docs/support/index",
+      "Destination": "/developer-distribution/experience-cloud/docs/support/"
+    },
+    {
+      "Source": "/developer-distribution/experience-cloud/docs/guides/plugin-id/",
+      "Destination": "/developer-distribution/experience-cloud/docs/guides/plugin-id"
+    },
+    {
+      "Source": "/developer-distribution/experience-cloud/docs/guides",
+      "Destination": "/developer-distribution/experience-cloud/docs/guides/"
+    },
+    {
+      "Source": "/developer-distribution/experience-cloud/docs/guides/index",
+      "Destination": "/developer-distribution/experience-cloud/docs/guides/"
+    },
+    {
+      "Source": "/developer-distribution/experience-cloud/docs/guides/glossary/",
+      "Destination": "/developer-distribution/experience-cloud/docs/guides/glossary"
+    },
+    {
+      "Source": "/developer-distribution/experience-cloud/docs/guides/getting-started/",
+      "Destination": "/developer-distribution/experience-cloud/docs/guides/getting-started"
+    },
+    {
+      "Source": "/developer-distribution/experience-cloud/docs/guides/discoverandmanage/",
+      "Destination": "/developer-distribution/experience-cloud/docs/guides/discoverandmanage"
+    },
+    {
+      "Source": "/developer-distribution/experience-cloud/docs/guides/commerce/",
+      "Destination": "/developer-distribution/experience-cloud/docs/guides/commerce"
+    },
+    {
+      "Source": "/developer-distribution/experience-cloud/docs/guides/branding-guidelines/",
+      "Destination": "/developer-distribution/experience-cloud/docs/guides/branding-guidelines"
+    },
+    {
+      "Source": "/developer-distribution/experience-cloud/docs/guides/zxp/resources/",
+      "Destination": "/developer-distribution/experience-cloud/docs/guides/zxp/resources"
+    },
+    {
+      "Source": "/developer-distribution/experience-cloud/docs/guides/zxp/distribution/",
+      "Destination": "/developer-distribution/experience-cloud/docs/guides/zxp/distribution"
+    },
+    {
+      "Source": "/developer-distribution/experience-cloud/docs/guides/zxp/coming-soon/",
+      "Destination": "/developer-distribution/experience-cloud/docs/guides/zxp/coming-soon"
+    },
+    {
+      "Source": "/developer-distribution/experience-cloud/docs/guides/submission/timelines-outcomes/",
+      "Destination": "/developer-distribution/experience-cloud/docs/guides/submission/timelines-outcomes"
+    },
+    {
+      "Source": "/developer-distribution/experience-cloud/docs/guides/submission/server-to-server-submission/",
+      "Destination": "/developer-distribution/experience-cloud/docs/guides/submission/server-to-server-submission"
+    },
+    {
+      "Source": "/developer-distribution/experience-cloud/docs/guides/submission/rejection-reasons/",
+      "Destination": "/developer-distribution/experience-cloud/docs/guides/submission/rejection-reasons"
+    },
+    {
+      "Source": "/developer-distribution/experience-cloud/docs/guides/submission/overview/",
+      "Destination": "/developer-distribution/experience-cloud/docs/guides/submission/overview"
+    },
+    {
+      "Source": "/developer-distribution/experience-cloud/docs/guides/submission/catalog-listing-submission/",
+      "Destination": "/developer-distribution/experience-cloud/docs/guides/submission/catalog-listing-submission"
+    },
+    {
+      "Source": "/developer-distribution/experience-cloud/docs/guides/submission/app-builder-submission/",
+      "Destination": "/developer-distribution/experience-cloud/docs/guides/submission/app-builder-submission"
+    },
+    {
+      "Source": "/developer-distribution/experience-cloud/docs/guides/plugin_id",
+      "Destination": "/developer-distribution/experience-cloud/docs/guides/plugin-id"
+    },
+    {
+      "Source": "/developer-distribution/experience-cloud/docs/guides/getting_started",
+      "Destination": "/developer-distribution/experience-cloud/docs/guides/getting-started"
+    },
+    {
+      "Source": "/developer-distribution/experience-cloud/docs/guides/branding_guidelines",
+      "Destination": "/developer-distribution/experience-cloud/docs/guides/branding-guidelines"
+    },
+    {
+      "Source": "/developer-distribution/experience-cloud/docs/guides/zxp/coming_soon",
+      "Destination": "/developer-distribution/experience-cloud/docs/guides/zxp/coming-soon"
+    },
+    {
+      "Source": "/developer-distribution/experience-cloud/docs/guides/submission/timelines_outcomes",
+      "Destination": "/developer-distribution/experience-cloud/docs/guides/submission/timelines-outcomes"
+    },
+    {
+      "Source": "/developer-distribution/experience-cloud/docs/guides/submission/server_to_server_submission",
+      "Destination": "/developer-distribution/experience-cloud/docs/guides/submission/server-to-server-submission"
+    },
+    {
+      "Source": "/developer-distribution/experience-cloud/docs/guides/submission/rejection_reasons",
+      "Destination": "/developer-distribution/experience-cloud/docs/guides/submission/rejection-reasons"
+    },
+    {
+      "Source": "/developer-distribution/experience-cloud/docs/guides/submission/catalog_listing_submission",
+      "Destination": "/developer-distribution/experience-cloud/docs/guides/submission/catalog-listing-submission"
+    },
+    {
+      "Source": "/developer-distribution/experience-cloud/docs/guides/submission/app_builder_submission",
+      "Destination": "/developer-distribution/experience-cloud/docs/guides/submission/app-builder-submission"
+    },
+    {
+      "Source": "/developer-distribution/experience-cloud/docs/guides/plugin_id/",
+      "Destination": "/developer-distribution/experience-cloud/docs/guides/plugin-id"
+    },
+    {
+      "Source": "/developer-distribution/experience-cloud/docs/guides/getting_started/",
+      "Destination": "/developer-distribution/experience-cloud/docs/guides/getting-started"
+    },
+    {
+      "Source": "/developer-distribution/experience-cloud/docs/guides/branding_guidelines/",
+      "Destination": "/developer-distribution/experience-cloud/docs/guides/branding-guidelines"
+    },
+    {
+      "Source": "/developer-distribution/experience-cloud/docs/guides/zxp/coming_soon/",
+      "Destination": "/developer-distribution/experience-cloud/docs/guides/zxp/coming-soon"
+    },
+    {
+      "Source": "/developer-distribution/experience-cloud/docs/guides/submission/timelines_outcomes/",
+      "Destination": "/developer-distribution/experience-cloud/docs/guides/submission/timelines-outcomes"
+    },
+    {
+      "Source": "/developer-distribution/experience-cloud/docs/guides/submission/server_to_server_submission/",
+      "Destination": "/developer-distribution/experience-cloud/docs/guides/submission/server-to-server-submission"
+    },
+    {
+      "Source": "/developer-distribution/experience-cloud/docs/guides/submission/rejection_reasons/",
+      "Destination": "/developer-distribution/experience-cloud/docs/guides/submission/rejection-reasons"
+    },
+    {
+      "Source": "/developer-distribution/experience-cloud/docs/guides/submission/catalog_listing_submission/",
+      "Destination": "/developer-distribution/experience-cloud/docs/guides/submission/catalog-listing-submission"
+    },
+    {
+      "Source": "/developer-distribution/experience-cloud/docs/guides/submission/app_builder_submission/",
+      "Destination": "/developer-distribution/experience-cloud/docs/guides/submission/app-builder-submission"
+    }
+  ],
+  ":type": "sheet"
+}

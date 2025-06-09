@@ -14,24 +14,18 @@ title: FAQ - Frequently Asked Questions
 description: This is the FAQ page
 ---
 
-<Hero slots="heading, text" background="rgb(141, 52, 78)"/>
+<HeroSimple slots="heading, text" background="rgb(141, 52, 78)"/>
 
 # What's New: Introducing a new enterprise credential
 
-<!-- (Commented) App Manager has been merged into Developer Distribution. -->
-
 For partners to build and distribute server-to-server integrations.
 
-<br/>
 
-Developer Distribution is a unified portal to self-submit & manage Experience Cloud listings to be published on [Adobe Exchange](https://exchange.adobe.com/apps/browse/ec).
-Now server-to-server integrations can be submitted by [Technology Partner Program (TPP)](https://partners.adobe.com/technologyprogram/experiencecloud.html) members along with Catalog listings and App Builder apps for Adobe’s Experience Cloud products in Developer Distribution. Click the upper right Distribute button when you have a TPP login and are ready to create or manage your listing. 
+Developer Distribution is a unified portal to self-submit & manage Experience Cloud listings to be published on [Adobe Exchange](https://exchange.adobe.com/apps/browse/ec).
+Now server-to-server integrations can be submitted by [Technology Partner Program (TPP)](https://partners.adobe.com/technologyprogram/experiencecloud.html) members along with Catalog listings and App Builder apps for Adobe’s Experience Cloud products in Developer Distribution. Click the upper right Distribute button when you have a TPP login and are ready to create or manage your listing. 
 
-<br/>
 
 ## Server-to-server integrations
-
-<br/>
 
 - [What is a server-to-server integration?](#what-is-a-server-to-server-integration)
 - [Can customers acquire server-to-server integrations from Exchange marketplace today?](#can-customers-acquire-server-to-server-integrations-from-exchange-marketplace-today)
@@ -41,29 +35,23 @@ Now server-to-server integrations can be submitted by [Technology Partner Progra
 - [I am trying to create an enterprise credential on Developer Console after choosing the Adobe API I want to add for my integration, but I only see the option to choose the older ‘Server-to-server authentication’ credential on the screen to choose authentication type, what should I do?](#i-am-trying-to-create-an-enterprise-credential-on-developer-console-after-choosing-the-adobe-api-i-want-to-add-for-my-integration-but-i-only-see-the-option-to-choose-the-older-server-to-server-authentication-credential-on-the-screen-to-choose-authentication-type-what-should-i-do)
 - [Where can I get more information or help?](#where-can-i-get-more-information-or-help)
 
-<br/>
 
 ## Catalog listings
-
-<br/>
 
 - [What is a catalog listing?](#what-is-a-catalog-listing)
 - [Can I use Developer Distribution to create and manage catalog listings?](#can-i-use-developer-distribution-to-create-and-manage-catalog-listings)
 - [What are the steps to create a catalog listing for public distribution?](#what-are-the-steps-to-create-a-catalog-listing-for-public-distribution)
 - [Where can I get more information or help?](#where-can-i-get-more-information-or-help)
 
-<br/>
 
 ## App Builder apps
 
-<br/>
 
 - [What is an App Builder app?](#what-is-an-app-builder-app)
 - [What are the steps to create an App Builder listing for public distribution?](#what-are-the-steps-to-create-an-app-builder-listing-for-public-distribution)
 - [If I previously created a private App Builder App via the App Builder Trial Sign up, can I distribute it publicly?](#if-i-previously-created-a-private-app-builder-app-via-the-app-builder-trial-sign-up-can-i-distribute-it-publicly)
 - [Where can I get more information or help?](#where-can-i-get-more-information-or-help)
 
-<br/>
 
 ## Server-to-server integrations Answers
 
@@ -82,9 +70,9 @@ In March 2025, Adobe introduced a new enterprise credential that will enable dev
 
 ### What are the steps to create a server-to-server integration listing for public distribution?
 
-1. Login or join the [Technology Partner Program (TPP)](https://partners.adobe.com/technologyprogram/experiencecloud.html). TPP Silver Membership or above includes the benefit of public listings on Adobe Exchange. Free (Community) membership includes unlisted public detail page URLs for approved listings, which the developer can share with customers. Upon TPP registration approval, an organization (org/account) will be assigned to your TPP login credentials, which you should choose when logging into Developer Distribution (DD) or Developer Console (DC)
-2. After your registration has been approved, submit a request for an Adobe product Sandbox for any required APIs using the [TPP sandbox request ticket](https://partners.adobe.com/technologyprogram/experiencecloud/knowledgebase/db56212793bf8214fbe77b847aba1091.html). You will need a sandbox for building your integration in [Developer Console](https://developer.adobe.com/developer-console/), which will be assigned to your TPP organization/account. Note that for server-to-server integrations an enterprise credential needs to be associated with the same Developer Console project that is assigned to the listing.
-3. Create a new server-to-server integration listing for your integration in [Developer Distribution](https://developer.adobe.com/developer-distribution). Step 2 in creating a listing is choosing a project that already has your enterprise credential created previously in Developer Console.
+1. Login or join the [Technology Partner Program (TPP)](https://partners.adobe.com/technologyprogram/experiencecloud.html). TPP Silver Membership or above includes the benefit of public listings on Adobe Exchange. Free (Community) membership includes unlisted public detail page URLs for approved listings, which the developer can share with customers. Upon TPP registration approval, an organization (org/account) will be assigned to your TPP login credentials, which you should choose when logging into Developer Distribution (DD) or Developer Console (DC)
+2. After your registration has been approved, submit a request for an Adobe product Sandbox for any required APIs using the [TPP sandbox request ticket](https://partners.adobe.com/technologyprogram/experiencecloud/knowledgebase/db56212793bf8214fbe77b847aba1091.html). You will need a sandbox for building your integration in [Developer Console](https://developer.adobe.com/developer-console/), which will be assigned to your TPP organization/account. Note that for server-to-server integrations an enterprise credential needs to be associated with the same Developer Console project that is assigned to the listing.
+3. Create a new server-to-server integration listing for your integration in [Developer Distribution](https://developer.adobe.com/developer-distribution). Step 2 in creating a listing is choosing a project that already has your enterprise credential created previously in Developer Console.
 
 ### If I already have an integration listed as a catalog listing, how do I change it to a server-to-server integration listing?
 
@@ -100,40 +88,40 @@ The new enterprise credential is visible on the screen that helps you choose aut
 
 ### Where can I get more information or help?
 
-File a help ticket to [TPP Support](https://partners.adobe.com/ec/cform/case)
+File a help ticket to [TPP Support](https://partners.adobe.com/ec/cform/case)
 
 ## Catalog listing Answers
 
 ### What is a catalog listing?
 
-Catalog listings are metadata-only server-to-server listings that extend one or more Adobe Experience Cloud products, but without an acquisition workflow on the Exchange marketplace. The existing 275+ public catalog listings on [Adobe Exchange](https://exchange.adobe.com/apps/browse/ec) require enterprise customers to contact the developer to be acquired and installed.
+Catalog listings are metadata-only server-to-server listings that extend one or more Adobe Experience Cloud products, but without an acquisition workflow on the Exchange marketplace. The existing 275+ public catalog listings on [Adobe Exchange](https://exchange.adobe.com/apps/browse/ec) require enterprise customers to contact the developer to be acquired and installed.
 
 ### Can I use Developer Distribution to create and manage catalog listings?
 
-Yes, the App Manager link in the Technology Partner Portal has been replaced with a link for [Developer Distribution](https://developer.adobe.com/developer-distribution). All previously created catalog listings can also be managed in Developer Distribution.
+Yes, the App Manager link in the Technology Partner Portal has been replaced with a link for [Developer Distribution](https://developer.adobe.com/developer-distribution). All previously created catalog listings can also be managed in Developer Distribution.
 
 ### What are the steps to create a catalog listing for public distribution?
 
-1. Login or join the [Technology Partner Program (TPP)](https://partners.adobe.com/technologyprogram/experiencecloud.html). You will have to join the TPP as a Silver Member or above for your published listing to be displayed publicly on the Exchange marketplace. At the free level, only an unlisted detail page URL is available to share with potential customers. Public listings for Experience Platform Launch are available at the free level. Upon TPP registration approval, an organization (org) will be assigned to your Adobe login credentials, and you’ll have access to create catalog listings in Developer Distribution.
-2. After your registration has been approved, submit a request for an Adobe product Sandbox for any required API using the [TPP sandbox request ticket](https://partners.adobe.com/technologyprogram/experiencecloud/knowledgebase/db56212793bf8214fbe77b847aba1091.html). You will need a sandbox for building your software integration in Developer Console, which you can then list as a catalog listing on Developer Distribution. Note that for catalog listings, the credential doesn’t need to be in the same Developer Console project as the one where you create your catalog listing.
-3. Create a new catalog listing for your software integration in [Developer Distribution](https://developer.adobe.com/developer-distribution). You will have the option to associate the listing with an existing Console project or go to Developer Console later and add an API to a project created for your new listing.
+1. Login or join the [Technology Partner Program (TPP)](https://partners.adobe.com/technologyprogram/experiencecloud.html). You will have to join the TPP as a Silver Member or above for your published listing to be displayed publicly on the Exchange marketplace. At the free level, only an unlisted detail page URL is available to share with potential customers. Public listings for Experience Platform Launch are available at the free level. Upon TPP registration approval, an organization (org) will be assigned to your Adobe login credentials, and you’ll have access to create catalog listings in Developer Distribution.
+2. After your registration has been approved, submit a request for an Adobe product Sandbox for any required API using the [TPP sandbox request ticket](https://partners.adobe.com/technologyprogram/experiencecloud/knowledgebase/db56212793bf8214fbe77b847aba1091.html). You will need a sandbox for building your software integration in Developer Console, which you can then list as a catalog listing on Developer Distribution. Note that for catalog listings, the credential doesn’t need to be in the same Developer Console project as the one where you create your catalog listing.
+3. Create a new catalog listing for your software integration in [Developer Distribution](https://developer.adobe.com/developer-distribution). You will have the option to associate the listing with an existing Console project or go to Developer Console later and add an API to a project created for your new listing.
 
 ### Where can I get more information or help?
 
-Contact [TPP Support](https://partners.adobe.com/ec/cform/case)
+Contact [TPP Support](https://partners.adobe.com/ec/cform/case)
 
 ## App Builder app Answers
 
 ### What is an App Builder app?
 
-Adobe Developer App Builder provides a unified third-party extensibility framework for integrating and creating custom experiences to extend Adobe products. Enterprise customers can browse listings and then acquire and install App Builder apps from [Adobe Exchange](https://exchange.adobe.com/apps/browse/ec).
+Adobe Developer App Builder provides a unified third-party extensibility framework for integrating and creating custom experiences to extend Adobe products. Enterprise customers can browse listings and then acquire and install App Builder apps from [Adobe Exchange](https://exchange.adobe.com/apps/browse/ec).
 
 ### What are the steps to create an App Builder listing for public distribution?
 
-1. Login or join the [Technology Partner Program (TPP)](https://partners.adobe.com/technologyprogram/experiencecloud.html). You will have to join the TPP as a Silver Member or above for your published listing to be displayed publicly. As a Community (free) Member, only an unlisted detail page URL will be available to share with potential customers. Upon TPP registration approval, an organization (org) will be assigned to your Adobe login credentials (Personal Account).
-2. After your registration has been approved, submit a request for an App Builder Sandbox using the [TPP sandbox request ticket](https://partners.adobe.com/technologyprogram/experiencecloud/knowledgebase/db56212793bf8214fbe77b847aba1091.html).
-3. Once you receive confirmation of your App Builder sandbox, go to [Developer Console](https://developer.adobe.com/developer-console/), add App Builder to a project, and create your App Builder app.​
-4. Create and submit a new or updated listing for an App Builder app using Developer Distribution. You will be given the option to pick an existing project that you created in #3 (most common) or create the project in Developer Distribution and go back to the Console to add an API later.​
+1. Login or join the [Technology Partner Program (TPP)](https://partners.adobe.com/technologyprogram/experiencecloud.html). You will have to join the TPP as a Silver Member or above for your published listing to be displayed publicly. As a Community (free) Member, only an unlisted detail page URL will be available to share with potential customers. Upon TPP registration approval, an organization (org) will be assigned to your Adobe login credentials (Personal Account).
+2. After your registration has been approved, submit a request for an App Builder Sandbox using the [TPP sandbox request ticket](https://partners.adobe.com/technologyprogram/experiencecloud/knowledgebase/db56212793bf8214fbe77b847aba1091.html).
+3. Once you receive confirmation of your App Builder sandbox, go to [Developer Console](https://developer.adobe.com/developer-console/), add App Builder to a project, and create your App Builder app.
+4. Create and submit a new or updated listing for an App Builder app using Developer Distribution. You will be given the option to pick an existing project that you created in #3 (most common) or create the project in Developer Distribution and go back to the Console to add an API later.
 
 ### If I previously created a private App Builder App via the App Builder Trial Sign up, can I distribute it publicly?
 
@@ -147,6 +135,6 @@ Yes, this is the process that any developer should follow if they want to distri
 
 ### Where can I get more information or help?
 
-Learn how to build an App Builder app [App Builder documentation](https://developer.adobe.com/app-builder/docs/getting_started/).
+Learn how to build an App Builder app [App Builder documentation](https://developer.adobe.com/app-builder/docs/get_started/app_builder_get_started/first-app).
 
-Contact [](https://partners.adobe.com/ec/cform/case).
+Contact [](https://partners.adobe.com/ec/cform/case).

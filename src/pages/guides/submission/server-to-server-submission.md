@@ -138,4 +138,4 @@ Edits can be submitted for review and will take effect immediately upon approval
 
 ![Submit for review](../../images/S2S_Submission_23.png)
 
-If you have any questions or suggestions regarding this guide, please file a help ticket to [TPP Support](https://partners.adobe.com/ec/cform/case).
+If you have any questions or suggestions regarding this guide, please file a help ticket to [TPP Support](https://partners.adobe.com/ec/cform/case).
