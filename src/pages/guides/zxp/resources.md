@@ -67,5 +67,3 @@ After you have successfully built your extension, you should package the extensi
 ## [Migrating a CEP panel to UXP](https://github.com/Adobe-CEP/CEP-Resources/tree/master/UXP-Migration-Guide)
 This guide is geared towards CEP (Common Extensibility Platform) developers who would like more technical guidance on migrating their extensions to UXP (Unified eXtensibility Platform). This guide is geared towards CEP (Common Extensibility Platform) developers who would like more technical guidance on migrating their extensions to UXP (Unified eXtensibility Platform). 
 
-<!-- ## [Developer Blog]()
-Get the latest news, updates, and guidance on how to succeed developing on Adobe Creative Cloud Platform SDK and API services. -->
