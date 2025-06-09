@@ -46,8 +46,6 @@ Use Developer Distribution to publish and distribute App Builder Apps, Server-to
 
 Developers must join the [Technology Partner Portal (TPP)](https://partners.adobe.com/technologyprogram/experiencecloud.html) in order to publish Experience Cloud listings. After joining, developers can request product sandboxes and are assigned an org/account to manage listings. The first TPP registered user for an enterprise developer can enable other users to access Developer Distribution and Developer Console by assigning an admin role for additional Adobe ID user credentials in [Admin Console Login](https://adminconsole.adobe.com/). This way, anyone assocated with their org/account will be able to manage projects and listings. TPP members who still get an error attempting to use Developer Distribution should contact [TPP Support](https://partners.adobe.com/ec/cform/case).
 
-<div style="margin-top: 1em">&nbsp;</div>
-
 <DiscoverBlock slots="heading, link, text"/>
 
 ## Next Steps
