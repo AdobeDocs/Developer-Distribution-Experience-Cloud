@@ -19,7 +19,7 @@ title: Getting Started
 description: This is the getting started page
 ---
 
-<Hero slots="heading, text" background="rgb(141, 52, 78)"/>
+<HeroSimple slots="heading, text" background="rgb(141, 52, 78)"/>
 
 # Discover, acquire & manage App Builder apps and software integrations
 

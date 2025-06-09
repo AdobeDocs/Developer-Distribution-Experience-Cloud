@@ -26,7 +26,7 @@ title: Experience Cloud Documentation for Adobe Developer Distribution
 description: A self-service submission portal for developers to publish listings that extend Adobe products on Adobe Exchange.
 ---
 
-<Hero slots="heading, text" background="rgb(141, 52, 78)"/>
+<HeroSimple slots="heading, text" background="rgb(141, 52, 78)"/>
 
 # Adobe Developer Distribution
 
@@ -62,4 +62,3 @@ Get to know the key concepts around the developer distribution portal.
 
 Learn about the three types of Experience Cloud listings.
 
-<br/><br/><br/><br/>
