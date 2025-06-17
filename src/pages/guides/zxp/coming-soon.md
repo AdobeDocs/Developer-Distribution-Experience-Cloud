@@ -20,15 +20,15 @@ title: Coming Soon to CEP Page of Adobe Developer Distribution
 description: Coming Soon to CEP documentation
 ---
 
-<Hero slots="heading, text" background="rgb(141, 52, 78)"/>
+<HeroSimple slots="heading, text" background="rgb(141, 52, 78)"/>
 
 # Important changes coming soon to CEP Distribution
 
-The Creative Cloud Adobe Exchange portal you are used to will soon be merged into Developer Distribution. Read through this guide to learn more.​
+The Creative Cloud Adobe Exchange portal you are used to will soon be merged into Developer Distribution. Read through this guide to learn more.
 
 ## Overview
 
-Developer Distribution is a unified portal where you will soon be able to submit your CEP and UXP plugin listings, and manage them. Start exploring the Developer Distribution portal by clicking the **Distribute** button in the top right of this page.​
+Developer Distribution is a unified portal where you will soon be able to submit your CEP and UXP plugin listings, and manage them. Start exploring the Developer Distribution portal by clicking the **Distribute** button in the top right of this page.
 
 ## Frequently Asked Questions
 
@@ -75,7 +75,7 @@ Please ask the admin of your developer org to take following steps to add you to
 ### How can I find out who from my team is the admin of the developer org created for my organization?
 
 The person who is the primary contact for your account on the Exchange Partner Portal will be the admin of the developer org. If you are not sure who that might be, please [write to us](mailto:ccintrev@adobe.com).
-  
+
 ### I have an account that I use to log into Developer Distribution to manage my UXP plugin listings, and another one that I use to log into Creative Cloud Exchange Partner Portal to manage my ZXP/CEP plugins listings. Will these accounts be automatically merged when Partner Portal workflows move to Developer Distribution, or do I need to do something?
 
 All developers who have multiple accounts should [fill out this form](https://survey.adobe.com/jfe/form/SV_2osb09BHSXILQ6q). If you use two different email addresses and we do not receive any feedback from you, your UXP and ZXP/CEP listings will continue to be grouped under two different email addresses and you will have two different public profiles in the new Developer Distribution portal.
@@ -111,4 +111,3 @@ If you have only built ZXP/CEP plugins in the past and are used to logging into 
 
 There is no impact on how users discover, acquire or install your listings on Adobe Exchange or Creative Cloud Desktop plugin marketplaces.
 
-<br/><br/><br/><br/>

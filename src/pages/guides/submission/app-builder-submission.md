@@ -23,7 +23,7 @@ description: This is the getting started page
 
 The following screenshots explain the creation and submission of an App Builder listing and version for Adobe review.
 
-Looking for help building your App Builder app? See the [App Builder Public Distribution](/app-builder/docs/guides/distribution/public) page for more details.
+Looking for help building your App Builder app? See the [App Builder Public Distribution](https://developer.adobe.com/app-builder/docs/guides/distribution/public) page for more details.
 
 ![sample image alt text](../../images/Your_Listings_card_view.png)
 
@@ -64,7 +64,7 @@ Submit the App Builder new listing metadata in multiple tabs: General, Media, Ca
 
 Listing details and a new version must be submitted together for the first listing. After publishing, the developer can submit an update to the listing details or a new version independently from each other.
 
-New Submission - Once the app has been built, tested, and packaged (using App Builder in the Adobe Developer Distribution portal), create the listing for the Marketplace. Executing the command "Distribute" will take you the Developer Console to create a listing for the app.
+New Submission - Once the app has been built, tested, and packaged (using App Builder in the Adobe Developer Distribution portal), create the listing for the Marketplace. Executing the command "Distribute" will take you the Developer Console to create a listing for the app.
 
 The General tab has the application’s public name, a short description (subtitle), a long description, URL for documentation, support information (email and URL), URL for Privacy policy, and URL for Terms of Service. Be sure to save a draft if you navigate away from the page.
 

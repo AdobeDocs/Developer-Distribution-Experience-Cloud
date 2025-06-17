@@ -19,7 +19,7 @@ title: Getting Started
 description: This is the getting started page
 ---
 
-<Hero slots="heading, text" background="rgb(141, 52, 78)"/>
+<HeroSimple slots="heading, text" background="rgb(141, 52, 78)"/>
 
 # Discover, acquire & manage App Builder apps and software integrations
 
@@ -99,7 +99,7 @@ Upon creation of a new environment, the administrator will see a success toast o
 
 ![Screenshot of Exchange](../images/Acquire_and_Manage_11.jpg)
 
-Clicking on the card of an environment will route the administrator to the details page for that environment. On the ‘Configuration’ tab, they will see the option to choose the custom configurations and product profiles for the environment before deploying the application. These custom configurations are provided by the app developer with the upload of the application’s package. Custom Configurations will vary from application to application, depending on the configurations needed for optimal functionality. See ["App Builder Public Distribution"](/app-builder/docs/guides/distribution/public) for more info on how to define user configuration options.
+Clicking on the card of an environment will route the administrator to the details page for that environment. On the ‘Configuration’ tab, they will see the option to choose the custom configurations and product profiles for the environment before deploying the application. These custom configurations are provided by the app developer with the upload of the application’s package. Custom Configurations will vary from application to application, depending on the configurations needed for optimal functionality. See ["App Builder Public Distribution"](https://developer.adobe.com/app-builder/docs/guides/distribution/public) for more info on how to define user configuration options.
 
 ![Screenshot of Exchange](../images/Acquire_and_Manage_12.jpg)
 
