@@ -16,4 +16,6 @@
             - [Catalog Listings](guides/submission/catalog-listing-submission.md) 
             - [S2S Integrations](guides/submission/server-to-server-submission.md) 
         - [Adobe Branding Guidelines](guides/branding-guidelines.md) 
-        - [Discover and Manage](guides/discoverandmanage.md) 
+        - [Discover and Manage](guides/discoverandmanage.md)
+            - [App Builder apps](guides/discover/app-builder-discover.md)
+            - [S2S Integrations](guides/discover/server-to-server-discover.md)
