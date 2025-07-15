@@ -1,6 +1,6 @@
 # App Builder app
 
-Apps can be discovered using keyword search, filter and sort. Users can also filter apps by partnership level developer. Below is an example of using App Builder as a search key word.  
+Below is an example of using App Builder as a search key word.  
 
 ![Screenshot of Exchange](../../images/Acquire_and_Manage_1.jpg)
 
