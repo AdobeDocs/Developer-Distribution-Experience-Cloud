@@ -1,12 +1,6 @@
 # App Builder app
 
-App Builder Apps can be acquired directly from the Adobe Exchange detail pages by enterprise users. From the **Manage** page, enterprise admins can Review/Approve or Revoke, install environment(s), choose product profiles & custom configurations, before deploying the App Builder app to the user.
-
-<br/>
-
-## Discover
-
-Published software integrations and App Builder apps will appear on [Adobe Exchange](https://exchange.adobe.com/apps/browse/ec). Apps can be discovered using keyword search, filter and sort. Users can also filter apps by partnership level developer. Below is an example of using App Builder as a search key word.  
+Apps can be discovered using keyword search, filter and sort. Users can also filter apps by partnership level developer. Below is an example of using App Builder as a search key word.  
 
 ![Screenshot of Exchange](../images/Acquire_and_Manage_1.jpg)
 
