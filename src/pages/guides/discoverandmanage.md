@@ -21,7 +21,7 @@ description: This is the getting started page
 
 <HeroSimple slots="heading, text" background="rgb(141, 52, 78)"/>
 
-# Discover, acquire & manage App Builder apps and Server to server integrations
+# Discover, acquire & manage App Builder apps and Software integrations
 
 Customers can discover and manage their entitlements once acquired on [Adobe Exchange](https://exchange.adobe.com/apps/browse/ec).
 
