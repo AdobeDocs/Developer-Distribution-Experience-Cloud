@@ -33,7 +33,8 @@
     "renameFiles": "node renameFiles.js",
     "normalizeLinks": "node normalizeLinks.js",
     "checkLinks": "node check-links.js",
-    "buildSiteWideBanner": "node buildSiteWideBanner.js"
+    "buildSiteWideBanner": "node buildSiteWideBanner.js",
+    "lint:check": "npx --yes github:AdobeDocs/adp-devsite-utils#add-lint-check runLint -v"
   },
   "remarkConfig": {
     "plugins": [
