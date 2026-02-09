@@ -5,8 +5,8 @@ keywords:
   - Exchange
   - Distribution
   - Extensibility
-  - TPP
-  - Technology Partner Portal
+  - DXP
+  - Digital Experience Partner Program
   - app builder apps
   - software integrations
   - analytics
@@ -33,11 +33,11 @@ A new listing can be created from the home page or the “Your listings” page.
 
 ![Screenshot of the home page with links to three plugins](../../images/AppBuilder_Submission_1.png)
 
-Some types of listings have prerequisites that developers need to fulfil before they can create the listing. For example, in order to create an App Builder application or a software integration listing, a developer either needs to belong to an Enterprise organization because they have purchased Experience Cloud products or they will need  to first register to the Technology Partner Program portal.
+Some types of listings have prerequisites that developers need to fulfil before they can create the listing. For example, in order to create an App Builder application or a software integration listing, a developer either needs to belong to an Enterprise organization because they have purchased Experience Cloud products or they will need to first register for the [Digital Experience Partner Program](https://partners.adobe.com/digitalexperience).
 
 ![Screenshot of the home page with links to three plugins](../../images/AppBuilder_Submission_2.png)
 
-Once the listing type has been chosen, another modal will ask the developer to choose the project they want to be associated with the listing. The developer can either choose an existing project, or create the listing in a new project.
+Once the listing type has been chosen, another modal will ask the developer to choose the project they want to be associated with the listing. The developer can either choose an existing project or create a listing in a new project.
 
 ![Screenshot of the home page with links to three plugins](../../images/AppBuilder_Submission_3.png)
 
@@ -64,7 +64,7 @@ Submit the App Builder new listing metadata in multiple tabs: General, Media, Ca
 
 Listing details and a new version must be submitted together for the first listing. After publishing, the developer can submit an update to the listing details or a new version independently from each other.
 
-New Submission - Once the app has been built, tested, and packaged (using App Builder in the Adobe Developer Distribution portal), create the listing for the Marketplace. Executing the command "Distribute" will take you the Developer Console to create a listing for the app.
+New Submission - Once the app has been built, tested, and packaged (using App Builder in the Adobe Developer Distribution portal), create the listing for the marketplace. Executing the command "Distribute" will take you the Developer Console to create a listing for the app.
 
 The General tab has the application’s public name, a short description (subtitle), a long description, URL for documentation, support information (email and URL), URL for Privacy policy, and URL for Terms of Service. Be sure to save a draft if you navigate away from the page.
 
@@ -78,7 +78,7 @@ The Categories tab has categories (such as Country and Industry) and custom tags
 
 ![Screenshot of the home page with links to three plugins](../../images/AppBuilder_Submission_7.png)
 
-The “Marketplaces” checkbox lets the developers choose if they want to publish their application on the Commerce marketplace, along-with the Exchange marketplace. When choosing to publish on Commerce marketplace, additional categories need to be completed.
+The “Marketplaces” checkbox lets the developers choose if they want to publish their application on the Commerce Marketplace, along with the Exchange Marketplace. When choosing to publish on the Commerce Marketplace, additional categories need to be completed.
 
 ![Screenshot of the home page with links to three plugins](../../images/AppBuilder_Submission_7.png)
 
@@ -106,7 +106,7 @@ For an initial listing, the developer can’t choose what they are submitting as
 
 ![Screenshot of the home page with links to three plugins](../../images/AppBuilder_Submission_10.png)
 
-Upon successful submission of the listing, the developer is taken to the “Listing Overview” page, where a success message confirms the submission. The status of the Listing changes from draft to “In review."
+Upon successful submission of the listing, the developer is taken to the “Listing Overview” page, where a success message confirms the submission. The status of the listing changes from draft to “In review."
 
 ![Screenshot of the home page with links to three plugins](../../images/AppBuilder_Submission_11.png)
 
