@@ -1,20 +1,20 @@
 # App Builder app
 
-Below is an example of using App Builder as a search key word.  
+Below is an example of using App Builder as a search keyword.  
 
 ![Screenshot of Exchange](../../images/Acquire_and_Manage_1.jpg)
 
-Clicking on the name of an app listing will take the marketplace user to that app listing’s details page. The listing details page will show ‘App Builder’ as one of the Required products.
+Clicking on the name of an app listing will take the marketplace user to that app listing’s details page. The listing details page will show ‘App Builder’ as one of the required products.
 
 ![Screenshot of Exchange](../../images/Acquire_and_Manage_2.jpg)
 
 <InlineAlert variant="warning" slots="header, text1, text2, text3, text4" />
 
-Listing visbility for EU users
+Listing visibility for EU users
 
-If you are not compliant per the [European Union Digital Services Act](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32022R2065) trader requirements, the users in the EU will not be able to see your listings in the Adobe Exchange.
+If you are not compliant per the [European Union Digital Services Act](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32022R2065) trader requirements, the users in the EU will not be able to see your listings in the Adobe Exchange Marketplace.
 
-If an EU user has already has a deep link to your listing, and you are not compliant with the [European Union Digital Services Act](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32022R2065) trader requirements, they will not be able to install the listing. However, if they have already installed it, they will still be able to use it. In both cases, they will see a banner with the following message:
+If an EU user already has a deep link to your listing, and you are not compliant with the [European Union Digital Services Act](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32022R2065) trader requirements, they will not be able to install the listing. However, if they have already installed it, they will still be able to use it. In both cases, they will see a banner with the following message:
 
 *This listing is not currently available in the EU. This developer has not submitted the trader information required by the EU Digital Services Act.*
 
@@ -30,17 +30,17 @@ Clicking ‘Yes, continue’ will display the link for the end-user license agre
 
 ![Screenshot of Exchange](../../images/Acquire_and_Manage_4.jpg)
 
-If the user clicks on the ‘Accept and continue’ button on the End-user license agreement, they will be taken to the sign-up-sign-in screen and required to login to the Exchange marketplace (if they aren’t already logged in). Once they log in, the app will be acquired for the org associated with their login credentials. The ‘Free’ button will be replaced by ‘Manage’, and the app will start showing as ‘Acquired’. Users will also see a confirmation modal informing them that the app has been acquired, and their system administrator must approve the acquisition before it can be deployed and used.
+If the user clicks on the ‘Accept and continue’ button on the End-user license agreement, they will be taken to the sign-up-sign-in screen and required to login to the Exchange Marketplace (if they aren’t already logged in). Once they log in, the app will be acquired for the org associated with their login credentials. The ‘Free’ button will be replaced by ‘Manage’, and the app will start showing as ‘Acquired’. Users will also see a confirmation modal informing them that the app has been acquired, and their system administrator must approve the acquisition before it can be deployed and used.
 
 ## Manage
 
 Clicking ‘Manage’ on the app listing details page, or the ‘Manage your app’ button in the ‘Application acquired’ modal will open the Experience Cloud Applications tab on the ‘Manage’ page with a list of all acquired applications.
 
-The user can also navigate to the Manage tab from the global navigation bar on the Exchange marketplace and click on the ‘Experience Cloud Applications’ tab to view a list of all acquired apps for their org. Admins logged into Adobe Exchange will additionally have the option to ‘Review’(approve) or ‘Revoke’ App Builder apps that have been acquired.
+The user can also navigate to the Manage tab from the global navigation bar on the Exchange Marketplace and click on the ‘Experience Cloud Applications’ tab to view a list of all acquired apps for their org. Admins logged into Adobe Exchange will additionally have the option to ‘Review’(approve) or ‘Revoke’ App Builder apps that have been acquired.
 
 ![Screenshot of Exchange](../../images/Acquire_and_Manage_5.jpg)
 
-Clicking on any app’s name on the Experience Cloud Applications tab will open the application details page for that app, where the user will have the option to ‘Get support’ from the developer, ‘View documentation’ for the app, and ‘View listing’ on the Exchange marketplace. Their org admin will additionally see the option to ‘Review’ the app for their org.
+Clicking on any app’s name on the Experience Cloud Applications tab will open the application details page for that app, where the user will have the option to ‘Get support’ from the developer, ‘View documentation’ for the app, and ‘View listing’ on the Exchange Marketplace. Their org admin will additionally see the option to ‘Review’ the app for their org.
 
 ![Screenshot of Exchange](../../images/Acquire_and_Manage_6.jpg)
 
@@ -48,7 +48,7 @@ Clicking on ‘Review’ will open the modal ‘Review this application’ with 
 
 ![Screenshot of Exchange](../../images/Acquire_and_Manage_7.jpg)
 
-If the system administrator rejects the app, the user will see the option to request for approval again on the application’s details page.
+If the system administrator rejects the app, the user will see the option to request approval again on the application details page.
 
 ![Screenshot of Exchange](../../images/Acquire_and_Manage_8.jpg)
 
@@ -86,7 +86,7 @@ System administrator will see the option to ‘Revoke’ a deployed application 
 
 ![Screenshot of Exchange](../../images/Acquire_and_Manage_14.jpg)
 
- On clicking ‘Revoke’, administrator will see a modal informing them that if they revoke the app, it’ll be uninstalled for everyone in their organization, and to reuse the application, they’ll need to go through the review cycle again. On clicking on the button ‘Revoke’ on the modal, all installations of the application will undeployed for the organization.
+ On clicking ‘Revoke’, administrator will see a modal informing them that if they revoke the app, it’ll be uninstalled for everyone in their organization, and to reuse the application, they’ll need to go through the review cycle again. On clicking on the button ‘Revoke’ on the modal, all installations of the application will be undeployed for the organization.
 
 ![Screenshot of Exchange](../../images/Acquire_and_Manage_15.jpg)
 

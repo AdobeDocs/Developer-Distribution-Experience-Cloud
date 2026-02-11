@@ -21,7 +21,7 @@ description: This is the getting started page
 
 # Getting Started
 
-This getting started guide highlights the pages to view and manage existing listings in the Adobe Developer Distribution Portal. Logged in [Technology Partner Program (TPP)](https://partners.adobe.com/technologyprogram/experiencecloud.html) members can manage Software integration and App Builder **listings** in [Developer Distribution](https://developer.adobe.com/distribute) to be published on [Adobe Exchange](https://exchange.adobe.com/apps/browse/ec)
+This getting started guide highlights the pages to view and manage existing listings in the Adobe Developer Distribution Portal. Logged in [Digital Experience Partner Program](https://partners.adobe.com/digitalexperience) members can manage Software integration and App Builder **listings** in [Developer Distribution](https://developer.adobe.com/distribute) to be published on [Adobe Exchange](https://exchange.adobe.com/apps/browse/ec).
 
 <InlineAlert slots="text" variant="help"/>
 
@@ -71,13 +71,13 @@ The developer can navigate to the “Listing details” page to add or edit list
 
 ![Screenshot of the home page with links to three plugins](../images/Overview_7.png)
 
-Once a listing is submitted for review and approved, published or Rejected, the developer can subsequently edit listing-level metadata fields from the Listing details page. The edits to an Approved, Published or Rejected listing must be submitted for Adobe review before the changes will go into effect.
+Once a listing is submitted for review and approved, published or rejected, the developer can subsequently edit listing-level metadata fields from the Listing details page. The edits to an approved, published or rejected listing must be submitted for Adobe review before the changes go into effect.
 
 ![Screenshot of the home page with links to three plugins](../images/Overview_8.png)
 
 ## Insights
 
-Insights are available for App Builder listings which can be acquired from the Adobe Exchange marketplace. For such listings, the developer can view the number of plugins acquired by month and year, as well as multiple version status summary. Insights will appear for published listings.
+Insights are available for App Builder listings which can be acquired from the Adobe Exchange Marketplace. For such listings, the developer can view the number of plugins acquired by month and year, as well as multiple version status summary. Insights will appear for published listings.
 
 ![Screenshot of the home page with links to three plugins](../images/Overview_9.png)
 

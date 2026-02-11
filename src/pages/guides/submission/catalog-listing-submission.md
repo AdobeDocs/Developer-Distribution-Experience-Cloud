@@ -31,7 +31,7 @@ A new listing can be created from the home page or the “Your listings” page.
 
 ![Screenshot of Exchange](../../images/DX-Submission_1.png)
 
-In order to create a server to server listing for Adobe’s Digital Experience products, the developer must have a sandbox Enterprise org associated with their Adobe login. All Technology Partner Program members get a sandbox enterprise org assigned upon approved registration. Attempting to create a software integration listing without joining Technology Partner Program will result in the access denied screens as below:
+In order to create a server-to-server listing for Adobe’s Digital Experience products, the developer must have a sandbox Enterprise org associated with their Adobe login. All Digital Experience Partner Program members get a sandbox enterprise org assigned upon approved registration. Attempting to create a software integration listing without joining Digital Experience Partner Program will result in the access denied screens as below:
 
 ![Screenshot of Exchange](../../images/DX-Submission_2.png)
 
@@ -63,7 +63,7 @@ The General tab has the application’s public name, a short description (subtit
 
 ![Screenshot of Exchange](../../images/DX-Submission_6.png)
 
-The Icons tab requires three different icon sizes for each integration. Featured image is also required for the published apps that are chosen to be featured on the Exchange marketplace.
+The Icons tab requires three different icon sizes for each integration. Featured image is also required for the published apps that are chosen to be featured on the Exchange Marketplace.
 
 ![Screenshot of Exchange](../../images/DX-Submission_7.png)
 
@@ -75,7 +75,7 @@ The Products tab has the list of Adobe products that the software integration mi
 
 ![Screenshot of Exchange](../../images/DX-Submission_9.png)
 
-The Tags tab has standard tags, categories (such as Country and Industry), and custom tags that developers can add. These categories and tags help marketplace customers discover and filter/sort software integration app listings published on the marketplace.
+The Tags tab has standard tags, categories (such as Country and Industry), and custom tags that developers can add. These categories and tags help marketplace customers discover, and filter/sort software integration app listings published on the marketplace.
 
 ![Screenshot of Exchange](../../images/DX-Submission_10.png)
 
@@ -87,7 +87,7 @@ When all the mandatory metadata details have been added, clicking the Preview an
 
 The developer must provide a note to Adobe reviewers and mark the checkbox for Adobe brand guidelines for the Submit listing button to be enabled.
 
-Delay publishing allows the developer to choose whether they want to publish the initial listing immediately on approval by Adobe, or on a later date.
+Delay publishing allows the developer to choose whether they want to publish the initial listing immediately after approval by Adobe, or on a later date.
 
 ![Screenshot of Exchange](../../images/DX-Submission_12.png)
   

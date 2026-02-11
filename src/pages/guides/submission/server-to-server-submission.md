@@ -25,7 +25,7 @@ This guide provides developers with step-by-step instructions or creation and su
 
 <InlineAlert slots="text"/>
 
-Adobe has introduced a new enterprise credential that will enable developers to publish Server-to-server integrations which users can acquire from [Adobe Exchange](https://exchange.adobe.com/) without having to contact the developer directly. Existing metadata-only Server-to-server integrations that cannot be acquired from the [Adobe Exchange marketplace](https://exchange.adobe.com/) are referred to as 'catalog listings' whereas 'Server-to-server' integration listings refer to integrations created with the new enterprise credentials. The process for creating these listings will differ. This guide focuses on instructions to create listings for integrations that use the new enterprise credentials.
+Adobe has introduced a new enterprise credential that will enable developers to publish Server-to-server integrations which users can acquire from [Adobe Exchange](https://exchange.adobe.com/) without having to contact the developer directly. Existing metadata-only server-to-server integrations that cannot be acquired from the [Adobe Exchange Marketplace](https://exchange.adobe.com/) are referred to as 'catalog listings' whereas 'server-to-server' integration listings refer to integrations created with the new enterprise credentials. The process for creating these listings will differ. This guide focuses on instructions to create listings for integrations that use the new enterprise credentials.
 
 ![Developer Distribution Home page](../../images/S2S_Submission_1.png)
 
@@ -42,7 +42,7 @@ There are two types of ‘Server-to-server integration for Experience Cloud’ l
 
 ![Choose a listing type](../../images/S2S_Submission_3.png)
 
-In order to create a server-to-server integration listing for Adobe’s Digital Experience products, the developer must have a sandbox Enterprise org associated with their Adobe login. All Technology Partner Program members get a sandbox enterprise org assigned upon approved registration. Attempting to create an integration listing without joining Technology Partner Program will result in the access denied screens as below. If you encounter this screen, file a [TPPSupport ticket](https://partners.adobe.com/ec/cform/case) to get help resolving the screen.:
+In order to create a server-to-server integration listing for Adobe’s Digital Experience products, the developer must have a sandbox Enterprise org associated with their Adobe login. All Digital Experience Partner Program members get a sandbox enterprise org assigned upon approved registration. Attempting to create an integration listing without joining Digital Experience Partner Program will result in the access denied screens as seen below. If you encounter this screen, please file a [support ticket](https://partners.adobe.com/digitalexperience/m/forms/case).
 
 ![Permission required](../../images/S2S_Submission_4.png)
 
@@ -74,11 +74,11 @@ The General tab has the application’s public name, a short description (subtit
 
 ![Listing details General tab](../../images/S2S_Submission_8.png)
 
-The Icons tab requires three different icon sizes for each integration. Featured image is also required for the published apps that are chosen to be featured on the Exchange marketplace.
+The Icons tab requires three different icon sizes for each integration. Featured image is also required for the published apps that are chosen to be featured on the Exchange Marketplace.
 
 ![Listing details Icons tab](../../images/S2S_Submission_9.png)
 
-The Media tab has screenshots, videos, documents, and developer references. Up to ten screenshots and up to ten video links can be added and a caption can be added for each screenshot and each video. Up to ten documents and up to ten developer reference materials can be added as URLs.
+The Media tab has screenshots, videos, documents, and developer references. Up to ten screenshots and up to ten video links can be added, and a caption can be added for each screenshot and each video as well. Up to ten documents and up to ten developer reference materials can be added as URLs.
 
 ![Listing details Media tab](../../images/S2S_Submission_10.png)
 
@@ -106,13 +106,13 @@ The API tab has the details added from the associated [Adobe Developer Console](
 
 ![Listing details API tab](../../images/S2S_Submission_16.png)
 
-When all the mandatory metadata details have been added, clicking the ‘Preview and submit’ button will open the confirmation modal. This modal informs the developer that they cannot add or remove APIs once the listing is submitted for Adobe’s review. Additionally, on submission, the credential name on [Adobe Developer Console](https://developer.adobe.com/console) is updated to the listing name that the developer has provided on [Adobe Developer Distribution](https://developer.adobe.com/distribute). Lastly, they are also informed that a redirection link will be added to their listing, so that the customer organization’s admin initiating consent to the application from the Exchange marketplace will be redirected back correctly, after providing the consent.
+When all the mandatory metadata details have been added, clicking the ‘Preview and submit’ button will open the confirmation modal. This modal informs the developer that they cannot add or remove APIs once the listing is submitted for Adobe’s review. Additionally, on submission, the credential name on [Adobe Developer Console](https://developer.adobe.com/console) is updated to the listing name that the developer has provided on [Adobe Developer Distribution](https://developer.adobe.com/distribute). Lastly, they are also informed that a redirection link will be added to their listing, so that the customer organization’s admin initiating consent to the application from the Exchange Marketplace will be redirected back correctly, after providing the consent.
 
 ![Submit this listing dialog](../../images/S2S_Submission_17.png)
 
 Clicking the ‘Yes, continue’ button will open the submission modal. The modal also gives the developer the option to preview the listing or view their public profile.
 The developer must provide a note to Adobe reviewers and mark the checkbox for Adobe brand guidelines for the Submit listing button to be enabled.
-Delay publishing allows the developer to choose whether they want to publish the initial listing immediately on approval by Adobe, or on a later date. Note that for AEP Sources connector listings, the listings will be published on the Exchange marketplace and AEP Sources connectors catalog in AEP on the same date. To ensure this, AEP Sources connector listings are published immediately on approval, and can’t be manually published later by the developer.
+Delay publishing allows the developer to choose whether they want to publish the initial listing immediately on approval by Adobe, or on a later date. Note that for AEP Sources connector listings, the listings will be published on the Exchange Marketplace and AEP Sources connectors catalog in AEP on the same date. To ensure this, AEP Sources connector listings are published immediately on approval, and can’t be manually published later by the developer.
 
 ![Submit for review](../../images/S2S_Submission_18.png)
 
@@ -138,4 +138,4 @@ Edits can be submitted for review and will take effect immediately upon approval
 
 ![Submit for review](../../images/S2S_Submission_23.png)
 
-If you have any questions or suggestions regarding this guide, please file a help ticket to [TPP Support](https://partners.adobe.com/ec/cform/case).
+If you have any questions, please submit a ticket to our [Partner Support Team](https://partners.adobe.com/digitalexperience/m/forms/case).
