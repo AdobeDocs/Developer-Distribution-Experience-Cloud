@@ -22,7 +22,7 @@ For partners to build and distribute server-to-server integrations.
 
 
 Developer Distribution is a unified portal to self-submit & manage Experience Cloud listings to be published on [Adobe Exchange](https://exchange.adobe.com/apps/browse/ec).
-Now server-to-server integrations can be submitted by [Digital Experience Partner Program](https://partners.adobe.com/digitalexperience) members along with Catalog listings and App Builder apps for Adobe’s Experience Cloud products in Developer Distribution. Click the upper right Distribute button when you have a partner login and are ready to create or manage your listing. 
+Now server-to-server integrations can be submitted by [Digital Experience Partner Program](https://partners.adobe.com/digitalexperience/) members along with Catalog listings and App Builder apps for Adobe’s Experience Cloud products in Developer Distribution. Click the upper right Distribute button when you have a partner login and are ready to create or manage your listing. 
 
 
 ## Server-to-server integrations
@@ -49,6 +49,7 @@ Now server-to-server integrations can be submitted by [Digital Experience Partne
 
 - [What is an App Builder app?](#what-is-an-app-builder-app)
 - [What are the steps to create an App Builder listing for public distribution?](#what-are-the-steps-to-create-an-app-builder-listing-for-public-distribution)
+- [What are the three ways to list and monetize App Builder applications?](#what-are-the-three-ways-to-list-and-monetize-app-builder-applications)
 - [If I previously created a private App Builder App via the App Builder Trial Sign up, can I distribute it publicly?](#if-i-previously-created-a-private-app-builder-app-via-the-app-builder-trial-sign-up-can-i-distribute-it-publicly)
 - [Where can I get more information or help?](#where-can-i-get-more-information-or-help)
 
@@ -70,7 +71,7 @@ In March 2025, Adobe introduced a new enterprise credential that enables develop
 
 ### What are the steps to create a server-to-server integration listing for public distribution?
 
-1. Login or join the [Digital Experience Partner Program](https://partners.adobe.com/digitalexperience). Silver Membership or above includes the benefit of public listings on the Adobe Exchange Marketplace. Free (Community) membership includes unlisted public detail page URLs for approved listings, which the developer can share with customers. Upon partner program registration approval, an organization (org/account) will be assigned to your login credentials, which you should choose when logging into Developer Distribution (DD) or Developer Console (DC)
+1. Login or join the [Digital Experience Partner Program](https://partners.adobe.com/digitalexperience/). Silver Membership or above includes the benefit of public listings on the Adobe Exchange Marketplace. Free (Community) membership includes unlisted public detail page URLs for approved listings, which the developer can share with customers. Upon partner program registration approval, an organization (org/account) will be assigned to your login credentials, which you should choose when logging into Developer Distribution (DD) or Developer Console (DC)
 2. After your registration has been approved, submit a request for an Adobe product sandbox for any required APIs using the [partner sandbox request ticket](https://partners.adobe.com/digitalexperience/resources/sandboxes). You will need a sandbox for building your integration in [Developer Console](https://developer.adobe.com/developer-console/), which will be assigned to your partner organization/account. Note that for server-to-server integrations an enterprise credential needs to be associated with the same Developer Console project that is assigned to the listing.
 3. Create a new server-to-server integration listing for your integration in [Developer Distribution](https://developer.adobe.com/developer-distribution). Step 2 in creating a listing is choosing a project that already has your enterprise credential created previously in Developer Console.
 
@@ -99,7 +100,7 @@ Catalog listings are metadata-only server-to-server listings that extend one or 
 
 ### What are the steps to create a catalog listing for public distribution?
 
-1. Login or join the [Digital Experience Partner Program](https://partners.adobe.com/digitalexperience). You will have to join the partner program at the Silver level or above for your published listing to be displayed publicly on the Exchange Marketplace. At the Community (free level), only an unlisted detail page URL is available to share with potential customers. Public listings for Experience Platform Launch are available at the free level. Upon partner registration approval, an organization (org) will be assigned to your Adobe login credentials, and you’ll have access to create catalog listings in Developer Distribution.
+1. Login or join the [Digital Experience Partner Program](https://partners.adobe.com/digitalexperience/). You will have to join the partner program at the Silver level or above for your published listing to be displayed publicly on the Exchange Marketplace. At the Community (free level), only an unlisted detail page URL is available to share with potential customers. Public listings for Experience Platform Launch are available at the free level. Upon partner registration approval, an organization (org) will be assigned to your Adobe login credentials, and you’ll have access to create catalog listings in Developer Distribution.
 2. After your registration has been approved, submit a request for an Adobe product sandbox for any required API using the [partner sandbox request ticket](https://partners.adobe.com/digitalexperience/resources/sandboxes). You will need a sandbox for building your software integration in Developer Console, which you can then list as a catalog listing on Developer Distribution. Note that for catalog listings, the credential doesn’t need to be in the same Developer Console project as the one where you create your catalog listing.
 3. Create a new catalog listing for your software integration in [Developer Distribution](https://developer.adobe.com/developer-distribution). You will have the option to associate the listing with an existing Console project or go to Developer Console later and add an API to a project created for your new listing.
 
@@ -115,10 +116,18 @@ Adobe Developer App Builder provides a unified third-party extensibility framewo
 
 ### What are the steps to create an App Builder listing for public distribution?
 
-1. Login or join the [Digital Experience Partner Program](https://partners.adobe.com/digitalexperience). You will have to join the partner program at the Silver level or above for your published listing to be displayed publicly. As a Community (free) partner, only an unlisted detail page URL will be available to share with potential customers. Upon partner registration approval, an organization (org) will be assigned to your Adobe login credentials (Personal Account).
+1. Login or join the [Digital Experience Partner Program](https://partners.adobe.com/digitalexperience/). You will have to join the partner program at the Silver level or above for your published listing to be displayed publicly. As a Community (free) partner, only an unlisted detail page URL will be available to share with potential customers. Upon partner registration approval, an organization (org) will be assigned to your Adobe login credentials (Personal Account).
 2. After your registration has been approved, submit a request for an App Builder Sandbox using the [partner sandbox request ticket](https://partners.adobe.com/digitalexperience/resources/sandboxes).
 3. Once you receive confirmation of your App Builder sandbox, go to [Developer Console](https://developer.adobe.com/developer-console/), add App Builder to a project, and create your App Builder app.
 4. Create and submit a new or updated listing for an App Builder app using Developer Distribution. You will be given the option to pick an existing project that you created in #3 (most common) or create the project in Developer Distribution and go back to the Console to add an API later.
+
+### What are the three ways to list and monetize App Builder applications?
+
+1. **Deployed on Exchange, payment on Exchange** – Create an App Builder application for Experience Cloud and under Listings > Listing details > Payment tab > Purchase Method, select Free, Perpetual, or Subscription. If Perpetual or Subscription is selected, the publisher will also need to create a FastSpring account at Profile > Payment > FastSpring Key before submission. A link to create a FastSpring account and obtain FastSpring Key/accountID is provided below the "Payment through FastSpring" header. Only one FastSpring Key/accountID is required per publisher no matter how many paid listings are created. Note: 92% of the application purchase is deposited to the publisher account; FastSpring keeps 8% for transaction fees.
+
+2. **Deployed on Exchange, monetized by publisher** – If a publisher wants the App Builder app deployed on Exchange but wants to monetize the application in-app or on their own website: create an App Builder application for Experience Cloud and under Listings > Listing details > Payment tab > Purchase Method, select Additional Purchase Required and enter a description of how and where the transaction occurs and how premium features are unlocked. This makes it clear to the customer that payment is required for premium features before they get the app deployed on Exchange.
+
+3. **Deployed and monetized by publisher** – Occasionally an App Builder publisher will prefer to configure and deploy a custom App Builder application for each paying customer. In this case the publisher should create a Catalog Listing for Experience Cloud and ensure these two actions are taken before submitting: at Listings > Listing details > Products > Application Type, select both App Builder; and attach a document that explains custom configurations, installation instructions, and payment terms at Listings > Listing details > Services > Installation instructions type > Custom installation instructions.
 
 ### If I previously created a private App Builder App via the App Builder Trial Sign up, can I distribute it publicly?
 
