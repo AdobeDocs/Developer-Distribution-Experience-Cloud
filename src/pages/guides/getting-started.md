@@ -21,7 +21,7 @@ description: This is the getting started page
 
 # Getting Started
 
-This getting started guide highlights the pages to view and manage existing listings in the Adobe Developer Distribution Portal. Logged in [Digital Experience Partner Program](https://partners.adobe.com/digitalexperience) members can manage Software integration and App Builder **listings** in [Developer Distribution](https://developer.adobe.com/distribute) to be published on [Adobe Exchange](https://exchange.adobe.com/apps/browse/ec).
+This getting started guide highlights the pages to view and manage existing listings in the Adobe Developer Distribution Portal. Logged in [Digital Experience Partner Program](https://partners.adobe.com/digitalexperience/) members can manage Software integration and App Builder **listings** in [Developer Distribution](https://developer.adobe.com/distribute) to be published on [Adobe Exchange](https://exchange.adobe.com/apps/browse/ec).
 
 <InlineAlert slots="text" variant="help"/>
 

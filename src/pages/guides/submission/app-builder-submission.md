@@ -33,7 +33,7 @@ A new listing can be created from the home page or the “Your listings” page.
 
 ![Screenshot of the home page with links to three plugins](../../images/AppBuilder_Submission_1.png)
 
-Some types of listings have prerequisites that developers need to fulfil before they can create the listing. For example, in order to create an App Builder application or a software integration listing, a developer either needs to belong to an Enterprise organization because they have purchased Experience Cloud products or they will need to first register for the [Digital Experience Partner Program](https://partners.adobe.com/digitalexperience).
+Some types of listings have prerequisites that developers need to fulfil before they can create the listing. For example, in order to create an App Builder application or a software integration listing, a developer either needs to belong to an Enterprise organization because they have purchased Experience Cloud products or they will need to first register for the [Digital Experience Partner Program](https://partners.adobe.com/digitalexperience/).
 
 ![Screenshot of the home page with links to three plugins](../../images/AppBuilder_Submission_2.png)
 
@@ -82,7 +82,7 @@ The “Marketplaces” checkbox lets the developers choose if they want to publi
 
 ![Screenshot of the home page with links to three plugins](../../images/AppBuilder_Submission_7.png)
 
-The Payment tab is for entering purchase options to the listing. For now, the only option that App Builder listings can offer is 'Free' as the purchase method. In the future, App Builder listings will also have the paid purchase methods of subscription and one-time payment (Perpetual).
+The Payment tab is used to configure the purchase options for a listing. App Builder supports four payment models: Free, Perpetual, Subscription, and Additional purchase required.
 
 ![Screenshot of the home page with links to three plugins](../../images/AppBuilder_Submission_8.png)
 
