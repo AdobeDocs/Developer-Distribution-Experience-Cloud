@@ -31,6 +31,6 @@ Adobe Exchange detail pages will instruct enterprise customers on how to acquire
 
 Published Server to server integrations and App Builder apps will appear on [Adobe Exchange](https://exchange.adobe.com/apps/browse/ec). Apps can be discovered using keyword search, filter and sort. Users can also filter apps by partnership level developer. Visit below pages to know more about Discover and Manage for these app types.
 
-* [App Builder apps](./discover/app-builder-discover.md)
-* [Server to server Integrations](./discover/server-to-server-discover.md)
+* [App Builder apps](./discoverAndManage/app-builder-discover.md)
+* [Server to server Integrations](./discoverAndManage/server-to-server-discover.md)
 
