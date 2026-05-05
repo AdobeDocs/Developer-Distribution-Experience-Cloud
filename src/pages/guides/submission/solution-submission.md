@@ -73,7 +73,7 @@ The Partner tab collects contact information about the partner submitting the so
 
 ### Overview (Adobe internal)
 
-The Overview tab contains business and market context that Adobe uses internally to evaluate and position the solution. For better readability, use dashed lists in description fields.
+The Overview tab contains business and market context that Adobe uses internally to evaluate and position the solution. For better readability, use dashed lists in description fields such as Ideal Customer Profile, Solution Value Statements, Business Outcomes, Competitive Landscape, and Regulatory Compliance.
 
 ![Listing details — Overview tab](../../images/SLN_Submission_8.png)
 
