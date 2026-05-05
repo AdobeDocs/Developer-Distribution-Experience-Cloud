@@ -15,6 +15,7 @@
             - [App Builder apps](guides/submission/app-builder-submission.md) 
             - [Catalog Listings](guides/submission/catalog-listing-submission.md) 
             - [Server to server Integrations](guides/submission/server-to-server-submission.md) 
+            - [Solutions](guides/submission/solution-submission.md) 
         - [Adobe Branding Guidelines](guides/branding-guidelines.md) 
         - [Discover and Manage](guides/discoverAndManage/overview.md)
             - [App Builder apps](guides/discoverAndManage/app-builder-discover.md)
