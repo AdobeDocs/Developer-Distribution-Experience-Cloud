@@ -1,0 +1,202 @@
+{
+  "total": 22,
+  "offset": 0,
+  "limit": 22,
+  "data": [
+    {
+      "page": "/config",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/136454403?v=4",
+        "https://avatars.githubusercontent.com/u/951386?v=4",
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "5/5/2026"
+    },
+    {
+      "page": "/guides/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/136454403?v=4",
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/130189735?v=4",
+        "https://avatars.githubusercontent.com/u/951386?v=4",
+        "https://avatars.githubusercontent.com/u/78827399?v=4",
+        "https://avatars.githubusercontent.com/u/359935?v=4",
+        "https://avatars.githubusercontent.com/u/25147704?v=4",
+        "https://avatars.githubusercontent.com/u/57922?v=4"
+      ],
+      "lastUpdated": "2/11/2026"
+    },
+    {
+      "page": "/guides/branding-guidelines",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/136454403?v=4",
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "2/9/2026"
+    },
+    {
+      "page": "/guides/commerce",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/359935?v=4"
+      ],
+      "lastUpdated": "2/13/2023"
+    },
+    {
+      "page": "/guides/discoverandmanage",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/136454403?v=4",
+        "https://avatars.githubusercontent.com/u/951386?v=4",
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/77717258?v=4",
+        "https://avatars.githubusercontent.com/u/28722775?v=4",
+        "https://avatars.githubusercontent.com/u/359935?v=4",
+        "https://avatars.githubusercontent.com/u/147755538?v=4",
+        "https://avatars.githubusercontent.com/u/78827399?v=4"
+      ],
+      "lastUpdated": "5/5/2026"
+    },
+    {
+      "page": "/guides/discoverAndManage/app-builder-discover",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/136454403?v=4",
+        "https://avatars.githubusercontent.com/u/951386?v=4"
+      ],
+      "lastUpdated": "3/12/2026"
+    },
+    {
+      "page": "/guides/discoverAndManage/overview",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/136454403?v=4",
+        "https://avatars.githubusercontent.com/u/951386?v=4"
+      ],
+      "lastUpdated": "2/11/2026"
+    },
+    {
+      "page": "/guides/discoverAndManage/server-to-server-discover",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/951386?v=4"
+      ],
+      "lastUpdated": "7/16/2025"
+    },
+    {
+      "page": "/guides/getting-started",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/136454403?v=4",
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "2/11/2026"
+    },
+    {
+      "page": "/guides/glossary",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/130189735?v=4",
+        "https://avatars.githubusercontent.com/u/359935?v=4",
+        "https://avatars.githubusercontent.com/u/25147704?v=4"
+      ],
+      "lastUpdated": "6/17/2025"
+    },
+    {
+      "page": "/guides/plugin-id",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "6/17/2025"
+    },
+    {
+      "page": "/guides/submission/app-builder-submission",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/136454403?v=4",
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "2/11/2026"
+    },
+    {
+      "page": "/guides/submission/catalog-listing-submission",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/136454403?v=4",
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "2/9/2026"
+    },
+    {
+      "page": "/guides/submission/overview",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/136454403?v=4",
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/951386?v=4",
+        "https://avatars.githubusercontent.com/u/28722775?v=4",
+        "https://avatars.githubusercontent.com/u/359935?v=4",
+        "https://avatars.githubusercontent.com/u/130189735?v=4"
+      ],
+      "lastUpdated": "5/5/2026"
+    },
+    {
+      "page": "/guides/submission/rejection-reasons",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "6/17/2025"
+    },
+    {
+      "page": "/guides/submission/server-to-server-submission",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/136454403?v=4",
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "2/9/2026"
+    },
+    {
+      "page": "/guides/submission/solution-submission",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/136454403?v=4"
+      ],
+      "lastUpdated": "5/5/2026"
+    },
+    {
+      "page": "/guides/submission/timelines-outcomes",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "6/17/2025"
+    },
+    {
+      "page": "/guides/zxp/coming-soon",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4"
+      ],
+      "lastUpdated": "6/17/2025"
+    },
+    {
+      "page": "/guides/zxp/distribution",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/136454403?v=4",
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/130189735?v=4",
+        "https://avatars.githubusercontent.com/u/951386?v=4",
+        "https://avatars.githubusercontent.com/u/359935?v=4",
+        "https://avatars.githubusercontent.com/u/147755538?v=4"
+      ],
+      "lastUpdated": "2/11/2026"
+    },
+    {
+      "page": "/guides/zxp/resources",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/359935?v=4"
+      ],
+      "lastUpdated": "6/17/2025"
+    },
+    {
+      "page": "/support/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/14320591?v=4",
+        "https://avatars.githubusercontent.com/u/28722775?v=4",
+        "https://avatars.githubusercontent.com/u/359935?v=4",
+        "https://avatars.githubusercontent.com/u/57922?v=4"
+      ],
+      "lastUpdated": "6/17/2025"
+    }
+  ],
+  ":type": "sheet"
+}
