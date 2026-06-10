@@ -1,3 +1,0 @@
-# Server to Server Integration
-
-Coming Soon...

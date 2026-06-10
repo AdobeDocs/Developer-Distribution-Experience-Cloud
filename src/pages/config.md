@@ -19,4 +19,3 @@
         - [Adobe Branding Guidelines](guides/branding-guidelines.md) 
         - [Discover and Manage](guides/discoverAndManage/overview.md)
             - [App Builder apps](guides/discoverAndManage/app-builder-discover.md)
-            - [Server to server Integrations](guides/discoverAndManage/server-to-server-discover.md)

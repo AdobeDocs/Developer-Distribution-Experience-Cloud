@@ -15,8 +15,8 @@ keywords:
   - Developer Console
   - Creative Cloud Desktop
   - FastSpring
-title: Getting Started
-description: This is the getting started page
+title: Discover and Manage Overview
+description: This page provides an overview for customers on how to discover, acquire & manage App Builder apps and Software integrations
 ---
 
 <HeroSimple slots="heading, text" background="rgb(141, 52, 78)"/>
@@ -32,4 +32,3 @@ Adobe Exchange detail pages will instruct enterprise customers on how to acquire
 Published Server to server integrations and App Builder apps will appear on [Adobe Exchange](https://exchange.adobe.com/apps/browse/ec). Apps can be discovered using keyword search, filter and sort. Users can also filter apps by partnership level developer. Visit below pages to know more about Discover and Manage for these app types.
 
 * [App Builder apps](./app-builder-discover.md)
-* [Server to server Integrations](./server-to-server-discover.md)
