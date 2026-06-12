@@ -23,7 +23,7 @@ description: Discover and manage server-to-server integration listings on Adobe 
 
 Server-to-server integrations are partner-built enterprise applications that call Adobe APIs on behalf of a customer's organization to access customer data across Adobe products.
 
-These integrations use **Enterprise credentials** — a credential type on [Adobe Developer Console](https://developer.adobe.com/console) built specifically for Independent Software Vendor (ISV) partner apps. With Enterprise credentials, customers no longer need to create their own credentials on Adobe Developer Console and share them with the partner. Instead, a system administrator provides consent on the organization's behalf, which creates a binding between the customer org's technical account and the partner's application. Once consent is granted, the partner application can access the customer's Adobe data using that binding.
+A system administrator of the customer organization must grant consent on behalf of the organization to authorize partner-built applications to access the organization's Adobe data.
 
 You can discover all published server-to-server integration listings on [Adobe Exchange](https://exchange.adobe.com/apps/browse/ec?appType=SPISV&listingType=applications) by applying the **Server-to-server integrations** app type filter.
 
