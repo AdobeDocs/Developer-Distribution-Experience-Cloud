@@ -80,6 +80,18 @@ On successful deployment of an environment, the status of that environment will 
 
 ![Screenshot of Exchange](../../images/Acquire_and_Manage_environment-details.png)
 
+### Testing a deployment before submission
+
+Developers can reach this same Application details page for their own App Builder app before it is submitted for Adobe's review, by clicking 'Test Deploy' (or 'Manage Deploy', once they have clicked it before) on the Version Details page in Developer Distribution. See ["Test Deploy"](https://developer.adobe.com/developer-distribution/experience-cloud/docs/guides/submission/app-builder-submission#test-deploy) in the App Builder app submission guide for how to get here.
+
+![Screenshot of Exchange: application approved for test, add environment](../../images/Acquire_and_Manage_17.png)
+
+For a test deployment, the app does not need to be acquired or approved by a system administrator first. The developer lands directly on their Application details page, where 'Distribution' shows 'Test' instead of 'Public'. From here, adding an environment, choosing configurations, deploying, and undeploying all work exactly as described above.
+
+> Note: A single App ID can have a maximum of 10 environments within an organization, combining both test and production (post-publish) environments.
+
+> Note: The 'Application description' and 'Publisher email' shown on the Application details page are only populated if the developer has filled in the 'Description' and 'Support email' fields on the Listing details page.
+
 ### Revoking an application
 
 System administrator will see the option to ‘Revoke’ a deployed application on the Application details tab.
