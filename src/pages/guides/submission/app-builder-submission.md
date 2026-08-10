@@ -116,19 +116,45 @@ Before submitting an app for Adobe's review, developers can use 'Test Deploy' to
 
 The 'Test Deploy' button on the Version Details page stays disabled until an application package has been uploaded and a draft version has been saved.
 
-![Screenshot of the disabled Test Deploy button with a tooltip prompting the developer to upload a package and save a draft version](../../images/AppBuilder_Submission_16.png)
+![Disabled Test Deploy button with a tooltip](../../images/AppBuilder_Submission_16.png)
 
-Once the package is uploaded, the draft version is saved, and the package has passed validation, the 'Test Deploy' button is enabled. The first time this happens, a 'New: Test Deploy' tooltip introduces the feature, letting the developer know they can test the acquisition, deployment, and un-deployment experience on Adobe Exchange before submitting the application.
+Once the package is uploaded, the draft version is saved, and it passes validation, the 'Test Deploy' button is enabled. A 'New: Test Deploy' tooltip introduces the feature the first time this happens.
 
-![Screenshot of the New Test Deploy tooltip with both validations passed](../../images/AppBuilder_Submission_17.png)
+![New Test Deploy tooltip with validations passed](../../images/AppBuilder_Submission_17.png)
 
-Clicking 'Test Deploy' opens a modal letting the developer know they are leaving Developer Distribution to manage their test deployment on the Adobe Exchange Manage page.
+Clicking 'Test Deploy' opens a modal letting the developer know they are leaving Developer Distribution to manage their test deployment on Adobe Exchange.
 
-![Screenshot of the Manage your deployment on Adobe Exchange confirmation modal](../../images/AppBuilder_Submission_18.png)
+![Manage your deployment on Adobe Exchange confirmation modal](../../images/AppBuilder_Submission_18.png)
 
-Clicking 'Continue' takes the developer to Manage → App Builder applications for their app on Adobe Exchange, where they can add a test environment and deploy their app the same way an organization administrator would for a live, acquired app. See ["Testing a deployment before submission"](https://developer.adobe.com/developer-distribution/experience-cloud/docs/guides/discoverAndManage/app-builder-discover#testing-a-deployment-before-submission) in the App Builder app discovery and management guide for the environment setup and deployment steps.
+Clicking 'Continue' takes the developer to the Application details page for their app on Adobe Exchange, under Manage → App Builder applications. The app does not need to be acquired or approved first, and 'Distribution' shows 'Test' instead of 'Public'.
 
-After the developer clicks 'Test Deploy' once, this button is relabeled 'Manage Deploy' and works the same way, opening the same modal to take the developer back to the Adobe Exchange Manage page for that app.
+![Exchange page showing the application approved for test deployment](../../images/AppBuilder_Submission_19.png)
+
+To deploy and start using the app, the developer needs to add an environment. Clicking 'Add environment' opens a modal to name it.
+
+<InlineAlert variant="info" slots="header, text1" />
+
+Environment limit
+
+A single App ID can have up to 10 environments per organization, combining test and production environments.
+
+![List of test environments with Deployed and Draft statuses](../../images/AppBuilder_Submission_20.png)
+
+Clicking an environment's card opens its details page, where the developer can deploy it.
+
+![Environment details page with a Deploy button](../../images/AppBuilder_Submission_21.png)
+
+On the 'Configuration' tab, the developer can set the custom configurations and product profiles for the environment before deploying. These configurations come from the application's package and vary by app. Clicking 'Deploy' shows a toast letting them know deployment is underway and may take a few minutes.
+
+![Configuration tab while the application is deploying](../../images/AppBuilder_Submission_22.png)
+
+On successful deployment, the environment's status changes to 'Deployed', and the option to 'Undeploy' becomes available.
+
+![Deployed environment with the Undeploy option](../../images/AppBuilder_Submission_23.png)
+
+'Application description' and 'Publisher email' on the Application details page only show if the developer filled in 'Description' and 'Support email' on the Listing details page.
+
+After the developer clicks 'Test Deploy' once, the button is relabeled 'Manage Deploy'. It works the same way, opening the same modal to take the developer back to the Exchange Manage page.
 
 ## Reviewing A Submission
 
