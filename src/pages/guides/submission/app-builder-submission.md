@@ -100,7 +100,7 @@ The developer can keep adding more information related to the version (such as o
 
 When all the mandatory listing and version level details have been added, and the version package has passed the validations, the Preview and submit button will be enabled. Clicking the button will open the submission modal. The modal also gives the developer the option to preview the listing or view their public profile.
 
-For an initial listing, the developer can’t choose what they are submitting as a new listing and its first version are always submitted together. The developer must provide a note to Adobe reviewers and mark the checkbox for Adobe brand guidelines in order for the Submit listing button to be enabled.
+For an initial listing, the developer can't choose what they are submitting as a new listing and its first version are always submitted together. The developer must provide a note to Adobe reviewers, mark the checkbox for Adobe brand guidelines, and acknowledge that submitting for review will permanently delete any test deployment environments, in order for the Submit listing button to be enabled.
 
 “Delay publishing” allows the developer to choose whether they want to publish the app immediately on approval by Adobe, or at a later date.
 
