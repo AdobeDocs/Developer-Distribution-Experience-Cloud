@@ -128,7 +128,7 @@ Clicking 'Test Deploy' opens a modal letting the developer know they are leaving
 
 Clicking 'Continue' takes the developer to Manage → App Builder applications for their app on Adobe Exchange, where they can add a test environment and deploy their app the same way an organization administrator would for a live, acquired app. See ["Testing a deployment before submission"](https://developer.adobe.com/developer-distribution/experience-cloud/docs/guides/discoverAndManage/app-builder-discover#testing-a-deployment-before-submission) in the App Builder app discovery and management guide for the environment setup and deployment steps.
 
-Once an environment has been created for the app, this button is relabeled 'Manage Deploy' and works the same way, opening the same modal to take the developer back to the Adobe Exchange Manage page for that app.
+After the developer clicks 'Test Deploy' once, this button is relabeled 'Manage Deploy' and works the same way, opening the same modal to take the developer back to the Adobe Exchange Manage page for that app.
 
 ## Reviewing A Submission
 
