@@ -96,7 +96,7 @@ Once the app has been built, tested, and packaged (using App Builder in the Adob
 
 The developer can keep adding more information related to the version (such as optional products that their app supports and release notes) while the validations are performed. The “Package download” checkbox lets developers opt to allow users to download the package once they have acquired it from the marketplace.
 
-[![Screenshot of the Version Details page while validations are running on the uploaded package](https://github.com/AdobeDocs/Developer-Distribution-Experience-Cloud/raw/main/src/pages/images/AppBuilder_Submission_15.png)](/AdobeDocs/Developer-Distribution-Experience-Cloud/blob/main/src/pages/images/AppBuilder_Submission_15.png)
+![Screenshot of the Version Details page while validations are running on the uploaded package](../../images/AppBuilder_Submission_15.png)
 
 When all the mandatory listing and version level details have been added, and the version package has passed the validations, the Preview and submit button will be enabled. Clicking the button will open the submission modal. The modal also gives the developer the option to preview the listing or view their public profile.
 
@@ -116,15 +116,15 @@ Before submitting an app for Adobe's review, developers can use 'Test Deploy' to
 
 The 'Test Deploy' button on the Version Details page stays disabled until an application package has been uploaded and a draft version has been saved.
 
-[![Screenshot of the disabled Test Deploy button with a tooltip prompting the developer to upload a package and save a draft version](https://github.com/AdobeDocs/Developer-Distribution-Experience-Cloud/raw/main/src/pages/images/AppBuilder_Submission_16.png)](/AdobeDocs/Developer-Distribution-Experience-Cloud/blob/main/src/pages/images/AppBuilder_Submission_16.png)
+![Screenshot of the disabled Test Deploy button with a tooltip prompting the developer to upload a package and save a draft version](../../images/AppBuilder_Submission_16.png)
 
 Once the package is uploaded, the draft version is saved, and the package has passed validation, the 'Test Deploy' button is enabled. The first time this happens, a 'New: Test Deploy' tooltip introduces the feature, letting the developer know they can test the acquisition, deployment, and un-deployment experience on Adobe Exchange before submitting the application.
 
-[![Screenshot of the New Test Deploy tooltip with both validations passed](https://github.com/AdobeDocs/Developer-Distribution-Experience-Cloud/raw/main/src/pages/images/AppBuilder_Submission_17.png)](/AdobeDocs/Developer-Distribution-Experience-Cloud/blob/main/src/pages/images/AppBuilder_Submission_17.png)
+![Screenshot of the New Test Deploy tooltip with both validations passed](../../images/AppBuilder_Submission_17.png)
 
 Clicking 'Test Deploy' opens a modal letting the developer know they are leaving Developer Distribution to manage their test deployment on the Adobe Exchange Manage page.
 
-[![Screenshot of the Manage your deployment on Adobe Exchange confirmation modal](https://github.com/AdobeDocs/Developer-Distribution-Experience-Cloud/raw/main/src/pages/images/AppBuilder_Submission_18.png)](/AdobeDocs/Developer-Distribution-Experience-Cloud/blob/main/src/pages/images/AppBuilder_Submission_18.png)
+![Screenshot of the Manage your deployment on Adobe Exchange confirmation modal](../../images/AppBuilder_Submission_18.png)
 
 Clicking 'Continue' takes the developer to Manage → App Builder applications for their app on Adobe Exchange, where they can add a test environment and deploy their app the same way an organization administrator would for a live, acquired app. See ["Testing a deployment before submission"](https://developer.adobe.com/developer-distribution/experience-cloud/docs/guides/discoverAndManage/app-builder-discover#testing-a-deployment-before-submission) in the App Builder app discovery and management guide for the environment setup and deployment steps.
 
