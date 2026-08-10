@@ -80,7 +80,7 @@ On successful deployment of an environment, the status of that environment will 
 
 ![Screenshot of Exchange](../../images/Acquire_and_Manage_environment-details.png)
 
-### Testing a deployment before submission
+### Managing a test deployment
 
 Developers can reach this same Application details page for their own App Builder app before it is submitted for Adobe's review, by clicking 'Test Deploy' (or 'Manage Deploy', once they have clicked it before) on the Version Details page in Developer Distribution. See ["Test Deploy"](https://developer.adobe.com/developer-distribution/experience-cloud/docs/guides/submission/app-builder-submission#test-deploy) in the App Builder app submission guide for how to get here.
 
