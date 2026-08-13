@@ -118,7 +118,7 @@ The 'Test Deploy' button on the Version Details page stays disabled until an app
 
 ![Disabled Test Deploy button with a tooltip](../../images/AppBuilder_Submission_16.png)
 
-Once the package is uploaded, the draft version is saved, and it passes validation, the 'Test Deploy' button is enabled. A 'New: Test Deploy' tooltip introduces the feature the first time this happens.
+Once the package is uploaded and the draft version is saved, the 'Test Deploy' button is enabled. A 'New: Test Deploy' tooltip introduces the feature the first time this happens.
 
 ![New Test Deploy tooltip with validations passed](../../images/AppBuilder_Submission_17.png)
 
