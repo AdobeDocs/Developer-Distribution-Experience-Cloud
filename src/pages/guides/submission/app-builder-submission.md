@@ -105,14 +105,17 @@ Every uploaded package is scanned for malware and known vulnerabilities. The res
 The check ends in one of the following results.
 
 Passed
+
 No issues were found. You can continue.
 
 Passed with warning
+
 The scan found issues that aren't critical. Open the Security Check Report (PDF) to review them. Adobe recommends fixing them, but you can submit without giving a justification.
 
 Security check passed with warning and a link to the Security Check Report
 
 Failed
+
 The scan found a critical issue. Open the Security Check Report (PDF) to see what was flagged, then do one of the following:
 
 Fix the issue and upload a corrected package.
