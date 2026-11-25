@@ -98,7 +98,29 @@ The developer can keep adding more information related to the version (such as o
 
 ![Screenshot of the Version Details page while validations are running on the uploaded package](../../images/AppBuilder_Submission_15.png)
 
-When all the mandatory listing and version level details have been added, and the version package has passed the validations, the Preview and submit button will be enabled. Clicking the button will open the submission modal. The modal also gives the developer the option to preview the listing or view their public profile.
+Security Check
+
+Every uploaded package is scanned for malware and known vulnerabilities. The result appears in the “Security check” field on the Version Details page. The scan usually takes 2 to 5 minutes. You can keep adding version details and use Test Deploy while it runs, but you can't submit until it finishes.
+
+The check ends in one of the following results.
+
+Passed
+No issues were found. You can continue.
+
+Passed with warning
+The scan found issues that aren't critical. Open the Security Check Report (PDF) to review them. Adobe recommends fixing them, but you can submit without giving a justification.
+
+Security check passed with warning and a link to the Security Check Report
+
+Failed
+The scan found a critical issue. Open the Security Check Report (PDF) to see what was flagged, then do one of the following:
+
+Fix the issue and upload a corrected package.
+If the issue can't be fixed or was flagged incorrectly, explain why in the required “Reason for flagged issues” field (20 to 1000 characters). Your explanation is shared with the Adobe reviewer as part of the submission.
+
+You can't submit while this field is empty. Critical issues must be resolved or explained before Adobe approves the submission.
+
+When all the mandatory listing and version level details have been added, and the version package has passed the scans, the Preview and submit button will be enabled. Clicking the button will open the submission modal. The modal also gives the developer the option to preview the listing or view their public profile.
 
 For an initial listing, the developer can't choose what they are submitting as a new listing and its first version are always submitted together. The developer must provide a note to Adobe reviewers, mark the checkbox for Adobe brand guidelines, and acknowledge that submitting for review will permanently delete any test deployment environments, in order for the Submit listing button to be enabled.
 
