@@ -92,9 +92,9 @@ App Builder requires a package to be uploaded and validated before the developer
 
 ![Screenshot of the home page with links to three plugins](../../images/AppBuilder_Submission_9.png)
 
-Once the app has been built, tested, and packaged (using App Builder in the Adobe Developer Distribution portal), the package can be uploaded by dragging and dropping the package on the “Version Details” tag or by clicking “Select a file”. Upon successful upload of a file, scans and validations are performed to confirm that all the details of the package are in the required format, and the files are the right size and type.
+Once the app has been built, tested, and packaged (using App Builder in the Adobe Developer Distribution portal), the package can be uploaded by dragging and dropping the package on the “Version Details” tag or by clicking “Select a file”. Upon successful upload of a file, validations are performed to confirm that all the details of the package are in the required format, and the files are the right size and type. A security check also scans the package for malware and known vulnerabilities.
 
-The developer can keep adding more information related to the version (such as optional products that their app supports and release notes) while the validations are performed. The “Package download” checkbox lets developers opt to allow users to download the package once they have acquired it from the marketplace.
+The developer can keep adding more information related to the version (such as optional products that their app supports and release notes) while the scans are performed. The “Package download” checkbox lets developers opt to allow users to download the package once they have acquired it from the marketplace.
 
 ![Screenshot of the Version Details page while validations are running on the uploaded package](../../images/AppBuilder_Submission_15.png)
 
