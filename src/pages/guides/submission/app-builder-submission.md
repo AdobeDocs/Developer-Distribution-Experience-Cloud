@@ -108,11 +108,13 @@ Passed
 
 No issues were found. You can continue.
 
+![Security check: passed](../../images/passed.png)
+
 Passed with warning
 
 The scan found issues that aren't critical. Open the Security Check Report (PDF) to review them. Adobe recommends fixing them, but you can submit without giving a justification.
 
-Security check passed with warning and a link to the Security Check Report
+![Security check: passed with warning](../../images/passed-with-warning.png)
 
 Failed
 
@@ -122,6 +124,8 @@ Fix the issue and upload a corrected package.
 If the issue can't be fixed or was flagged incorrectly, explain why in the required “Reason for flagged issues” field (20 to 1000 characters). Your explanation is shared with the Adobe reviewer as part of the submission.
 
 You can't submit while this field is empty. Critical issues must be resolved or explained before Adobe approves the submission.
+
+![Security check: failed](../../images/failed.png)
 
 When all the mandatory listing and version level details have been added, and the version package has passed the scans, the Preview and submit button will be enabled. Clicking the button will open the submission modal. The modal also gives the developer the option to preview the listing or view their public profile.
 
