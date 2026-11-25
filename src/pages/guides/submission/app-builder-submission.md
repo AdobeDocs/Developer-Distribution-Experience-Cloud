@@ -114,7 +114,7 @@ Passed with warning
 
 The scan found issues that aren't critical. Open the Security Check Report (PDF) to review them. Adobe recommends fixing them, but you can submit without giving a justification.
 
-![Security check: passed with warning](../../images/passed-with-warning.png)
+![Security check: passed with warning](../../images/passed%20with%20warning.png)
 
 Failed
 
